@@ -1,2023 +1,5 @@
 [
   {
-    "time": "2026-05-23T16:57:08.449467",
-    "cpu_percent": 1.8,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.51,
-    "net_recv_mb": 293.75,
-    "processes": 301,
-    "load_1m": 0.94,
-    "load_5m": 1.52,
-    "load_15m": 1.31,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 3.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:10.498246",
-    "cpu_percent": 9.8,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.66,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.51,
-    "net_recv_mb": 293.75,
-    "processes": 305,
-    "load_1m": 0.95,
-    "load_5m": 1.51,
-    "load_15m": 1.31,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 10.3
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 6.8
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:12.554042",
-    "cpu_percent": 14.6,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 306,
-    "load_1m": 0.95,
-    "load_5m": 1.51,
-    "load_15m": 1.31,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 23.4
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 13.7
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 12.7
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 3987,
-        "name": "gjs",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:14.612337",
-    "cpu_percent": 16.0,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 305,
-    "load_1m": 0.95,
-    "load_5m": 1.51,
-    "load_15m": 1.31,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 30.1
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 16.5
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 13.1
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:16.666837",
-    "cpu_percent": 19.4,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 305,
-    "load_1m": 0.87,
-    "load_5m": 1.48,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 28.2
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 15.1
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 13.1
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:18.719104",
-    "cpu_percent": 15.2,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 305,
-    "load_1m": 0.87,
-    "load_5m": 1.48,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 27.8
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 15.6
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 14.6
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:20.770559",
-    "cpu_percent": 19.2,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 305,
-    "load_1m": 0.96,
-    "load_5m": 1.49,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 28.3
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 14.1
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 14.1
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:22.818107",
-    "cpu_percent": 16.2,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 304,
-    "load_1m": 0.96,
-    "load_5m": 1.49,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 27.3
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 14.7
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 13.2
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:24.871850",
-    "cpu_percent": 14.5,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 304,
-    "load_1m": 0.96,
-    "load_5m": 1.48,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 25.8
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 14.1
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 13.2
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:26.920196",
-    "cpu_percent": 19.0,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 304,
-    "load_1m": 0.96,
-    "load_5m": 1.48,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 27.8
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 14.2
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 12.7
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:28.967460",
-    "cpu_percent": 16.7,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 304,
-    "load_1m": 0.96,
-    "load_5m": 1.48,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 28.3
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 15.6
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 14.6
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:31.020402",
-    "cpu_percent": 15.5,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.52,
-    "net_recv_mb": 293.76,
-    "processes": 305,
-    "load_1m": 0.97,
-    "load_5m": 1.48,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 24.9
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 14.1
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 12.7
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:33.074669",
-    "cpu_percent": 17.1,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.53,
-    "net_recv_mb": 293.76,
-    "processes": 304,
-    "load_1m": 0.97,
-    "load_5m": 1.48,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 28.3
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 14.1
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 13.1
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:35.123322",
-    "cpu_percent": 15.7,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.53,
-    "net_recv_mb": 293.76,
-    "processes": 304,
-    "load_1m": 0.97,
-    "load_5m": 1.47,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 26.8
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 13.7
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 12.2
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:37.170679",
-    "cpu_percent": 17.5,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.54,
-    "net_recv_mb": 293.77,
-    "processes": 304,
-    "load_1m": 0.97,
-    "load_5m": 1.47,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 27.3
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 13.7
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 12.7
-      },
-      {
-        "pid": 164916,
-        "name": "Isolated Servic",
-        "cpu": 2.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:39.213449",
-    "cpu_percent": 6.9,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.55,
-    "net_recv_mb": 293.78,
-    "processes": 304,
-    "load_1m": 0.97,
-    "load_5m": 1.47,
-    "load_15m": 1.3,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 7.8
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 6.9
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 5.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:41.258020",
-    "cpu_percent": 11.6,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.55,
-    "net_recv_mb": 293.78,
-    "processes": 302,
-    "load_1m": 0.89,
-    "load_5m": 1.44,
-    "load_15m": 1.29,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 20.5
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 12.7
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 8.3
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:43.304972",
-    "cpu_percent": 11.5,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.57,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.89,
-    "load_5m": 1.44,
-    "load_15m": 1.29,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 11.2
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 5.9
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 3.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:45.350733",
-    "cpu_percent": 2.2,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.66,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.57,
-    "net_recv_mb": 293.79,
-    "processes": 305,
-    "load_1m": 0.82,
-    "load_5m": 1.42,
-    "load_15m": 1.28,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 3.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:47.396754",
-    "cpu_percent": 6.6,
-    "mem_percent": 46.5,
-    "mem_used_gb": 3.66,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.57,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.82,
-    "load_5m": 1.42,
-    "load_15m": 1.28,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 2.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:49.441810",
-    "cpu_percent": 2.6,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.57,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.82,
-    "load_5m": 1.42,
-    "load_15m": 1.28,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 4.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:51.487086",
-    "cpu_percent": 6.2,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.57,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.75,
-    "load_5m": 1.39,
-    "load_15m": 1.27,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 10.3
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 6.8
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:53.532328",
-    "cpu_percent": 4.4,
-    "mem_percent": 46.6,
-    "mem_used_gb": 3.67,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.57,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.75,
-    "load_5m": 1.39,
-    "load_15m": 1.27,
-    "top_processes": [
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:55.578046",
-    "cpu_percent": 7.0,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.66,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.57,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.69,
-    "load_5m": 1.37,
-    "load_15m": 1.27,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 10.3
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 8.8
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:57.625558",
-    "cpu_percent": 11.5,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.57,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.69,
-    "load_5m": 1.37,
-    "load_15m": 1.27,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 25.4
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 6.8
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 6.3
-      },
-      {
-        "pid": 164635,
-        "name": "Isolated Web Co",
-        "cpu": 4.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:57:59.672423",
-    "cpu_percent": 15.6,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.58,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.69,
-    "load_5m": 1.37,
-    "load_15m": 1.27,
-    "top_processes": [
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 22.0
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 13.2
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 9.3
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:01.719429",
-    "cpu_percent": 14.8,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.58,
-    "net_recv_mb": 293.79,
-    "processes": 306,
-    "load_1m": 0.64,
-    "load_5m": 1.35,
-    "load_15m": 1.26,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 18.6
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 17.1
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 6.8
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 5.4
-      },
-      {
-        "pid": 3987,
-        "name": "gjs",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:03.765096",
-    "cpu_percent": 9.1,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.66,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.58,
-    "net_recv_mb": 293.79,
-    "processes": 307,
-    "load_1m": 0.64,
-    "load_5m": 1.35,
-    "load_15m": 1.26,
-    "top_processes": [
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 11.2
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 5.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 1.5
-      },
-      {
-        "pid": 181274,
-        "name": "zsh",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:05.810230",
-    "cpu_percent": 4.3,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.58,
-    "net_recv_mb": 293.8,
-    "processes": 307,
-    "load_1m": 0.59,
-    "load_5m": 1.33,
-    "load_15m": 1.25,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 3.4
-      },
-      {
-        "pid": 181274,
-        "name": "zsh",
-        "cpu": 3.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:07.858962",
-    "cpu_percent": 2.3,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.58,
-    "net_recv_mb": 293.8,
-    "processes": 307,
-    "load_1m": 0.59,
-    "load_5m": 1.33,
-    "load_15m": 1.25,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 2.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:09.905108",
-    "cpu_percent": 5.5,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.66,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.58,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.54,
-    "load_5m": 1.3,
-    "load_15m": 1.25,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 4.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:11.952098",
-    "cpu_percent": 2.3,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.59,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.54,
-    "load_5m": 1.3,
-    "load_15m": 1.25,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 3.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:14.000241",
-    "cpu_percent": 7.0,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.59,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.54,
-    "load_5m": 1.3,
-    "load_15m": 1.25,
-    "top_processes": [
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 7.3
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:16.053903",
-    "cpu_percent": 6.1,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.59,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.66,
-    "load_5m": 1.31,
-    "load_15m": 1.25,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 8.3
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 5.4
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 1.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 1.9
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:18.103901",
-    "cpu_percent": 2.8,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.6,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.66,
-    "load_5m": 1.31,
-    "load_15m": 1.25,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 3.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:20.151028",
-    "cpu_percent": 16.3,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.66,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.6,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.6,
-    "load_5m": 1.29,
-    "load_15m": 1.24,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 20.0
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 15.1
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 11.2
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 3987,
-        "name": "gjs",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:22.197071",
-    "cpu_percent": 4.6,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.6,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.6,
-    "load_5m": 1.29,
-    "load_15m": 1.24,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 5.9
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 5.4
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 2.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 11239,
-        "name": "Isolated Web Co",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:24.244887",
-    "cpu_percent": 8.2,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.6,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.6,
-    "load_5m": 1.29,
-    "load_15m": 1.24,
-    "top_processes": [
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 5.9
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 5.4
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 5.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:26.292958",
-    "cpu_percent": 11.1,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.6,
-    "net_recv_mb": 293.8,
-    "processes": 308,
-    "load_1m": 0.56,
-    "load_5m": 1.27,
-    "load_15m": 1.24,
-    "top_processes": [
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 14.6
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 13.7
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 8.3
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:28.338542",
-    "cpu_percent": 13.0,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.6,
-    "net_recv_mb": 293.81,
-    "processes": 305,
-    "load_1m": 0.56,
-    "load_5m": 1.27,
-    "load_15m": 1.24,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 16.6
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 14.2
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 5.9
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 2.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:30.383585",
-    "cpu_percent": 6.1,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.61,
-    "net_recv_mb": 293.81,
-    "processes": 306,
-    "load_1m": 0.51,
-    "load_5m": 1.25,
-    "load_15m": 1.23,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 4.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:32.428381",
-    "cpu_percent": 4.2,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.61,
-    "net_recv_mb": 293.81,
-    "processes": 306,
-    "load_1m": 0.51,
-    "load_5m": 1.25,
-    "load_15m": 1.23,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 5.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 181274,
-        "name": "zsh",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:34.473126",
-    "cpu_percent": 2.2,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.61,
-    "net_recv_mb": 293.81,
-    "processes": 306,
-    "load_1m": 0.51,
-    "load_5m": 1.25,
-    "load_15m": 1.23,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 2.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:36.520945",
-    "cpu_percent": 9.0,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.61,
-    "net_recv_mb": 293.81,
-    "processes": 306,
-    "load_1m": 0.63,
-    "load_5m": 1.26,
-    "load_15m": 1.23,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 9.3
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 5.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:38.569487",
-    "cpu_percent": 6.0,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.61,
-    "net_recv_mb": 293.81,
-    "processes": 306,
-    "load_1m": 0.63,
-    "load_5m": 1.26,
-    "load_15m": 1.23,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 9.3
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 5.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 3987,
-        "name": "gjs",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:40.617913",
-    "cpu_percent": 16.1,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.62,
-    "net_recv_mb": 293.81,
-    "processes": 306,
-    "load_1m": 0.58,
-    "load_5m": 1.24,
-    "load_15m": 1.23,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 19.0
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 15.1
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 5.9
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 2.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:42.663045",
-    "cpu_percent": 9.9,
-    "mem_percent": 46.4,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.62,
-    "net_recv_mb": 293.82,
-    "processes": 306,
-    "load_1m": 0.58,
-    "load_5m": 1.24,
-    "load_15m": 1.23,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 13.2
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 9.3
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 9.3
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:44.707997",
-    "cpu_percent": 5.2,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.62,
-    "net_recv_mb": 293.82,
-    "processes": 306,
-    "load_1m": 0.58,
-    "load_5m": 1.24,
-    "load_15m": 1.23,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 11.2
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 5.9
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 2.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:46.767902",
-    "cpu_percent": 14.5,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.63,
-    "net_recv_mb": 293.83,
-    "processes": 306,
-    "load_1m": 0.53,
-    "load_5m": 1.22,
-    "load_15m": 1.22,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 19.4
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 11.2
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 8.7
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      },
-      {
-        "pid": 164635,
-        "name": "Isolated Web Co",
-        "cpu": 1.9
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:48.819453",
-    "cpu_percent": 9.5,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.63,
-    "net_recv_mb": 293.83,
-    "processes": 306,
-    "load_1m": 0.53,
-    "load_5m": 1.22,
-    "load_15m": 1.22,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 11.7
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 5.8
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 5.8
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 3.4
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:50.868581",
-    "cpu_percent": 2.1,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.63,
-    "net_recv_mb": 293.83,
-    "processes": 306,
-    "load_1m": 0.49,
-    "load_5m": 1.2,
-    "load_15m": 1.21,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 2.9
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:52.917596",
-    "cpu_percent": 12.4,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.63,
-    "net_recv_mb": 293.83,
-    "processes": 309,
-    "load_1m": 0.49,
-    "load_5m": 1.2,
-    "load_15m": 1.21,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 20.5
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 6.3
-      },
-      {
-        "pid": 180645,
-        "name": "python3",
-        "cpu": 2.9
-      },
-      {
-        "pid": 3987,
-        "name": "gjs",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:58:59.059191",
-    "cpu_percent": 0.0,
-    "mem_percent": 46.1,
-    "mem_used_gb": 3.63,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.65,
-    "net_recv_mb": 293.83,
-    "processes": 308,
-    "load_1m": 0.45,
-    "load_5m": 1.18,
-    "load_15m": 1.21,
-    "top_processes": []
-  },
-  {
-    "time": "2026-05-23T16:59:01.103785",
-    "cpu_percent": 1.8,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.65,
-    "net_recv_mb": 293.83,
-    "processes": 308,
-    "load_1m": 0.41,
-    "load_5m": 1.16,
-    "load_15m": 1.2,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 2.4
-      },
-      {
-        "pid": 203360,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:59:03.149916",
-    "cpu_percent": 18.0,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.67,
-    "net_recv_mb": 293.85,
-    "processes": 308,
-    "load_1m": 0.41,
-    "load_5m": 1.16,
-    "load_15m": 1.2,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 19.6
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 12.7
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 9.3
-      },
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 2.4
-      },
-      {
-        "pid": 202026,
-        "name": "glycin-svg",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:59:05.192899",
-    "cpu_percent": 5.3,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.67,
-    "net_recv_mb": 293.85,
-    "processes": 308,
-    "load_1m": 0.38,
-    "load_5m": 1.14,
-    "load_15m": 1.19,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 8.3
-      },
-      {
-        "pid": 140884,
-        "name": "gnome-terminal-server",
-        "cpu": 6.4
-      },
-      {
-        "pid": 203360,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:59:07.242051",
-    "cpu_percent": 17.8,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.65,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.67,
-    "net_recv_mb": 293.85,
-    "processes": 309,
-    "load_1m": 0.38,
-    "load_5m": 1.14,
-    "load_15m": 1.19,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 25.4
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 20.5
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 15.2
-      },
-      {
-        "pid": 203360,
-        "name": "python3",
-        "cpu": 2.4
-      },
-      {
-        "pid": 3987,
-        "name": "gjs",
-        "cpu": 1.5
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:59:09.285432",
-    "cpu_percent": 6.9,
-    "mem_percent": 46.3,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.67,
-    "net_recv_mb": 293.85,
-    "processes": 308,
-    "load_1m": 0.38,
-    "load_5m": 1.14,
-    "load_15m": 1.19,
-    "top_processes": [
-      {
-        "pid": 3966,
-        "name": "firefox-esr",
-        "cpu": 5.9
-      },
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 5.4
-      },
-      {
-        "pid": 129267,
-        "name": "Isolated Web Co",
-        "cpu": 4.9
-      },
-      {
-        "pid": 203360,
-        "name": "python3",
-        "cpu": 2.4
-      }
-    ]
-  },
-  {
-    "time": "2026-05-23T16:59:11.328415",
-    "cpu_percent": 1.7,
-    "mem_percent": 46.2,
-    "mem_used_gb": 3.64,
-    "mem_total_gb": 7.87,
-    "disk_percent": 67.0,
-    "net_sent_mb": 65.67,
-    "net_recv_mb": 293.85,
-    "processes": 308,
-    "load_1m": 0.35,
-    "load_5m": 1.12,
-    "load_15m": 1.19,
-    "top_processes": [
-      {
-        "pid": 2894,
-        "name": "gnome-shell",
-        "cpu": 2.4
-      },
-      {
-        "pid": 203360,
-        "name": "python3",
-        "cpu": 2.0
-      }
-    ]
-  },
-  {
     "time": "2026-05-23T16:59:13.374876",
     "cpu_percent": 15.5,
     "mem_percent": 46.3,
@@ -10684,6 +8666,2140 @@
         "pid": 207974,
         "name": "python3",
         "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:30.061126",
+    "cpu_percent": 3.4,
+    "mem_percent": 47.0,
+    "mem_used_gb": 3.7,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.56,
+    "net_recv_mb": 296.68,
+    "processes": 306,
+    "load_1m": 0.9,
+    "load_5m": 1.01,
+    "load_15m": 1.11,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 2.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 210660,
+        "name": "zsh",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:32.106536",
+    "cpu_percent": 6.8,
+    "mem_percent": 47.0,
+    "mem_used_gb": 3.7,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.57,
+    "net_recv_mb": 296.69,
+    "processes": 307,
+    "load_1m": 0.91,
+    "load_5m": 1.01,
+    "load_15m": 1.1,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 10.8
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 6.8
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 1.5
+      },
+      {
+        "pid": 210424,
+        "name": "glycin-svg",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:34.162789",
+    "cpu_percent": 7.1,
+    "mem_percent": 46.7,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.58,
+    "net_recv_mb": 296.69,
+    "processes": 307,
+    "load_1m": 0.91,
+    "load_5m": 1.01,
+    "load_15m": 1.1,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 5.9
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 4.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:36.221521",
+    "cpu_percent": 12.7,
+    "mem_percent": 46.7,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.58,
+    "net_recv_mb": 296.69,
+    "processes": 307,
+    "load_1m": 0.83,
+    "load_5m": 1.0,
+    "load_15m": 1.1,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 18.9
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 12.6
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 10.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      },
+      {
+        "pid": 150316,
+        "name": "Isolated Web Co",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:38.267385",
+    "cpu_percent": 15.1,
+    "mem_percent": 46.8,
+    "mem_used_gb": 3.69,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.58,
+    "net_recv_mb": 296.69,
+    "processes": 307,
+    "load_1m": 0.83,
+    "load_5m": 1.0,
+    "load_15m": 1.1,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 19.0
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 11.2
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 9.8
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:40.312631",
+    "cpu_percent": 8.4,
+    "mem_percent": 46.8,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.59,
+    "net_recv_mb": 296.7,
+    "processes": 307,
+    "load_1m": 0.77,
+    "load_5m": 0.98,
+    "load_15m": 1.09,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 11.2
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 5.9
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 3.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      },
+      {
+        "pid": 164916,
+        "name": "Isolated Servic",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:42.357087",
+    "cpu_percent": 7.3,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.59,
+    "net_recv_mb": 296.7,
+    "processes": 307,
+    "load_1m": 0.77,
+    "load_5m": 0.98,
+    "load_15m": 1.09,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 11.2
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 5.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      },
+      {
+        "pid": 210660,
+        "name": "zsh",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:44.401575",
+    "cpu_percent": 4.3,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.59,
+    "net_recv_mb": 296.7,
+    "processes": 307,
+    "load_1m": 0.77,
+    "load_5m": 0.98,
+    "load_15m": 1.09,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 2.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:46.446324",
+    "cpu_percent": 9.0,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.59,
+    "net_recv_mb": 296.7,
+    "processes": 307,
+    "load_1m": 0.7,
+    "load_5m": 0.96,
+    "load_15m": 1.09,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 10.3
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 9.8
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 7.3
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:48.505196",
+    "cpu_percent": 13.8,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.6,
+    "net_recv_mb": 296.7,
+    "processes": 309,
+    "load_1m": 0.7,
+    "load_5m": 0.96,
+    "load_15m": 1.09,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 21.9
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 12.7
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 12.6
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 3987,
+        "name": "gjs",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:50.552504",
+    "cpu_percent": 11.4,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.6,
+    "net_recv_mb": 296.7,
+    "processes": 308,
+    "load_1m": 0.65,
+    "load_5m": 0.95,
+    "load_15m": 1.08,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 14.1
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 9.8
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 9.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:52.597397",
+    "cpu_percent": 14.1,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.6,
+    "net_recv_mb": 296.71,
+    "processes": 308,
+    "load_1m": 0.65,
+    "load_5m": 0.95,
+    "load_15m": 1.08,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 19.1
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 15.6
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 8.8
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 4.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:54.641999",
+    "cpu_percent": 6.7,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.61,
+    "net_recv_mb": 296.71,
+    "processes": 308,
+    "load_1m": 0.65,
+    "load_5m": 0.95,
+    "load_15m": 1.08,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 4.9
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 2.0
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 2.0
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:56.686898",
+    "cpu_percent": 6.6,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.81,
+    "net_recv_mb": 296.72,
+    "processes": 312,
+    "load_1m": 0.6,
+    "load_5m": 0.93,
+    "load_15m": 1.07,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 4.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:07:58.731833",
+    "cpu_percent": 3.5,
+    "mem_percent": 46.4,
+    "mem_used_gb": 3.65,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.81,
+    "net_recv_mb": 296.72,
+    "processes": 308,
+    "load_1m": 0.6,
+    "load_5m": 0.93,
+    "load_15m": 1.07,
+    "top_processes": [
+      {
+        "pid": 164635,
+        "name": "Isolated Web Co",
+        "cpu": 3.9
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 2.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:00.776976",
+    "cpu_percent": 13.4,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.81,
+    "net_recv_mb": 296.72,
+    "processes": 308,
+    "load_1m": 0.55,
+    "load_5m": 0.92,
+    "load_15m": 1.07,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 14.7
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 9.3
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 7.3
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:02.831104",
+    "cpu_percent": 9.1,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.82,
+    "net_recv_mb": 296.72,
+    "processes": 308,
+    "load_1m": 0.55,
+    "load_5m": 0.92,
+    "load_15m": 1.07,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 14.1
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 11.7
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 3.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 3987,
+        "name": "gjs",
+        "cpu": 1.9
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:04.880224",
+    "cpu_percent": 12.5,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.82,
+    "net_recv_mb": 296.72,
+    "processes": 310,
+    "load_1m": 0.55,
+    "load_5m": 0.92,
+    "load_15m": 1.07,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 13.2
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 9.3
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 8.8
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:06.924829",
+    "cpu_percent": 5.9,
+    "mem_percent": 46.4,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.82,
+    "net_recv_mb": 296.72,
+    "processes": 308,
+    "load_1m": 0.5,
+    "load_5m": 0.9,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 9.3
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 5.9
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 5.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:08.969581",
+    "cpu_percent": 10.7,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.82,
+    "net_recv_mb": 296.72,
+    "processes": 308,
+    "load_1m": 0.5,
+    "load_5m": 0.9,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 14.2
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 11.7
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 4.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      },
+      {
+        "pid": 3987,
+        "name": "gjs",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:11.019986",
+    "cpu_percent": 8.4,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.82,
+    "net_recv_mb": 296.72,
+    "processes": 308,
+    "load_1m": 0.46,
+    "load_5m": 0.88,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 8.3
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 6.8
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:13.065792",
+    "cpu_percent": 13.3,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.82,
+    "net_recv_mb": 296.73,
+    "processes": 308,
+    "load_1m": 0.46,
+    "load_5m": 0.88,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 20.5
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 15.1
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 10.3
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      },
+      {
+        "pid": 3987,
+        "name": "gjs",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:15.113601",
+    "cpu_percent": 6.1,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.82,
+    "net_recv_mb": 296.73,
+    "processes": 308,
+    "load_1m": 0.46,
+    "load_5m": 0.88,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 9.8
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 8.3
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 3.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:17.158542",
+    "cpu_percent": 15.2,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.82,
+    "net_recv_mb": 296.73,
+    "processes": 308,
+    "load_1m": 0.59,
+    "load_5m": 0.9,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 20.0
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 12.2
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 11.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:19.203337",
+    "cpu_percent": 7.7,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.83,
+    "net_recv_mb": 296.73,
+    "processes": 308,
+    "load_1m": 0.59,
+    "load_5m": 0.9,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 11.7
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 6.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 2.0
+      },
+      {
+        "pid": 3987,
+        "name": "gjs",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:21.248127",
+    "cpu_percent": 6.2,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.83,
+    "net_recv_mb": 296.74,
+    "processes": 308,
+    "load_1m": 0.54,
+    "load_5m": 0.89,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 2.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      },
+      {
+        "pid": 210660,
+        "name": "zsh",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:23.292845",
+    "cpu_percent": 2.6,
+    "mem_percent": 46.4,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.83,
+    "net_recv_mb": 296.74,
+    "processes": 308,
+    "load_1m": 0.54,
+    "load_5m": 0.89,
+    "load_15m": 1.06,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 4.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:25.337392",
+    "cpu_percent": 2.1,
+    "mem_percent": 46.4,
+    "mem_used_gb": 3.65,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.83,
+    "net_recv_mb": 296.74,
+    "processes": 307,
+    "load_1m": 0.5,
+    "load_5m": 0.87,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 3.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:27.394474",
+    "cpu_percent": 10.6,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.83,
+    "net_recv_mb": 296.74,
+    "processes": 307,
+    "load_1m": 0.5,
+    "load_5m": 0.87,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 12.2
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 6.3
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 5.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:29.442089",
+    "cpu_percent": 12.3,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.83,
+    "net_recv_mb": 296.74,
+    "processes": 307,
+    "load_1m": 0.5,
+    "load_5m": 0.87,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 16.6
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 13.7
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 9.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:31.491318",
+    "cpu_percent": 8.1,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.84,
+    "net_recv_mb": 296.74,
+    "processes": 307,
+    "load_1m": 0.46,
+    "load_5m": 0.86,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 8.8
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 6.8
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 3.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:33.536558",
+    "cpu_percent": 7.6,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.85,
+    "net_recv_mb": 296.74,
+    "processes": 307,
+    "load_1m": 0.46,
+    "load_5m": 0.86,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 13.7
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 6.8
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 4.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:35.581617",
+    "cpu_percent": 2.2,
+    "mem_percent": 46.4,
+    "mem_used_gb": 3.65,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.85,
+    "net_recv_mb": 296.74,
+    "processes": 307,
+    "load_1m": 0.42,
+    "load_5m": 0.84,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 1.5
+      },
+      {
+        "pid": 150316,
+        "name": "Isolated Web Co",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:37.626175",
+    "cpu_percent": 6.3,
+    "mem_percent": 46.4,
+    "mem_used_gb": 3.65,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.85,
+    "net_recv_mb": 296.74,
+    "processes": 307,
+    "load_1m": 0.42,
+    "load_5m": 0.84,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 8.8
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:39.671813",
+    "cpu_percent": 9.8,
+    "mem_percent": 46.3,
+    "mem_used_gb": 3.65,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.86,
+    "net_recv_mb": 296.75,
+    "processes": 307,
+    "load_1m": 0.42,
+    "load_5m": 0.84,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 13.2
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 10.8
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 8.3
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:41.716951",
+    "cpu_percent": 9.1,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.86,
+    "net_recv_mb": 296.75,
+    "processes": 307,
+    "load_1m": 0.39,
+    "load_5m": 0.83,
+    "load_15m": 1.03,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 8.3
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 6.4
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 5.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:43.762800",
+    "cpu_percent": 13.3,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.86,
+    "net_recv_mb": 296.75,
+    "processes": 307,
+    "load_1m": 0.39,
+    "load_5m": 0.83,
+    "load_15m": 1.03,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 32.3
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 8.8
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 6.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      },
+      {
+        "pid": 164916,
+        "name": "Isolated Servic",
+        "cpu": 1.5
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:45.816634",
+    "cpu_percent": 16.9,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.88,
+    "net_recv_mb": 296.77,
+    "processes": 307,
+    "load_1m": 0.35,
+    "load_5m": 0.81,
+    "load_15m": 1.03,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 34.6
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 19.0
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 10.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:47.872072",
+    "cpu_percent": 25.3,
+    "mem_percent": 46.7,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.91,
+    "net_recv_mb": 296.79,
+    "processes": 307,
+    "load_1m": 0.35,
+    "load_5m": 0.81,
+    "load_15m": 1.03,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 33.6
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 32.6
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 15.1
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:49.921927",
+    "cpu_percent": 15.0,
+    "mem_percent": 46.7,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.92,
+    "net_recv_mb": 296.79,
+    "processes": 304,
+    "load_1m": 0.35,
+    "load_5m": 0.81,
+    "load_15m": 1.03,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 26.8
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 13.1
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 11.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:51.969614",
+    "cpu_percent": 17.6,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.92,
+    "net_recv_mb": 296.79,
+    "processes": 304,
+    "load_1m": 0.49,
+    "load_5m": 0.83,
+    "load_15m": 1.03,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 25.4
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 24.9
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 13.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:54.018037",
+    "cpu_percent": 18.5,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.92,
+    "net_recv_mb": 296.79,
+    "processes": 304,
+    "load_1m": 0.49,
+    "load_5m": 0.83,
+    "load_15m": 1.03,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 25.4
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 16.1
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 11.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:56.068573",
+    "cpu_percent": 17.1,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.92,
+    "net_recv_mb": 296.79,
+    "processes": 304,
+    "load_1m": 0.61,
+    "load_5m": 0.85,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 24.9
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 23.9
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 13.2
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:08:58.118591",
+    "cpu_percent": 18.8,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.92,
+    "net_recv_mb": 296.79,
+    "processes": 304,
+    "load_1m": 0.61,
+    "load_5m": 0.85,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 25.4
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 14.6
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 11.7
+      },
+      {
+        "pid": 164635,
+        "name": "Isolated Web Co",
+        "cpu": 3.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 3.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:00.167443",
+    "cpu_percent": 18.2,
+    "mem_percent": 46.6,
+    "mem_used_gb": 3.67,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.92,
+    "net_recv_mb": 296.79,
+    "processes": 303,
+    "load_1m": 0.61,
+    "load_5m": 0.85,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 38.6
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 13.2
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 11.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:02.223342",
+    "cpu_percent": 15.9,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.92,
+    "net_recv_mb": 296.8,
+    "processes": 309,
+    "load_1m": 0.8,
+    "load_5m": 0.89,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 25.3
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 12.7
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 12.2
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:04.274783",
+    "cpu_percent": 19.4,
+    "mem_percent": 46.4,
+    "mem_used_gb": 3.65,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.93,
+    "net_recv_mb": 296.8,
+    "processes": 303,
+    "load_1m": 0.8,
+    "load_5m": 0.89,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 25.8
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 16.0
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 10.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:06.323973",
+    "cpu_percent": 14.4,
+    "mem_percent": 46.4,
+    "mem_used_gb": 3.65,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.93,
+    "net_recv_mb": 296.8,
+    "processes": 303,
+    "load_1m": 0.74,
+    "load_5m": 0.88,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 23.9
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 12.7
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 11.2
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.9
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:08.371468",
+    "cpu_percent": 23.9,
+    "mem_percent": 46.5,
+    "mem_used_gb": 3.66,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.94,
+    "net_recv_mb": 296.81,
+    "processes": 303,
+    "load_1m": 0.74,
+    "load_5m": 0.88,
+    "load_15m": 1.04,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 61.1
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 18.1
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 10.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:10.417587",
+    "cpu_percent": 37.8,
+    "mem_percent": 46.7,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.95,
+    "net_recv_mb": 296.82,
+    "processes": 303,
+    "load_1m": 0.92,
+    "load_5m": 0.91,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 104.5
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 14.7
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 10.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:12.464846",
+    "cpu_percent": 23.2,
+    "mem_percent": 46.8,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.96,
+    "net_recv_mb": 296.85,
+    "processes": 304,
+    "load_1m": 0.92,
+    "load_5m": 0.91,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 56.2
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 18.6
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 10.7
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:14.504604",
+    "cpu_percent": 10.0,
+    "mem_percent": 46.9,
+    "mem_used_gb": 3.69,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 67.98,
+    "net_recv_mb": 296.86,
+    "processes": 304,
+    "load_1m": 0.92,
+    "load_5m": 0.91,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 10.8
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 8.3
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 4.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:16.544508",
+    "cpu_percent": 5.9,
+    "mem_percent": 46.8,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 68.0,
+    "net_recv_mb": 296.89,
+    "processes": 305,
+    "load_1m": 0.84,
+    "load_5m": 0.9,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 9.3
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 6.4
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 5.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:18.582535",
+    "cpu_percent": 5.8,
+    "mem_percent": 46.8,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 68.01,
+    "net_recv_mb": 296.89,
+    "processes": 305,
+    "load_1m": 0.84,
+    "load_5m": 0.9,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 7.4
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 6.9
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 3.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:20.620553",
+    "cpu_percent": 14.7,
+    "mem_percent": 46.7,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 68.01,
+    "net_recv_mb": 296.89,
+    "processes": 305,
+    "load_1m": 0.94,
+    "load_5m": 0.91,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 18.2
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 16.7
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 9.3
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.0
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:22.665752",
+    "cpu_percent": 13.1,
+    "mem_percent": 46.7,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 68.01,
+    "net_recv_mb": 296.89,
+    "processes": 305,
+    "load_1m": 0.94,
+    "load_5m": 0.91,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 22.5
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 13.2
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 11.3
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:24.713990",
+    "cpu_percent": 10.7,
+    "mem_percent": 46.7,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 68.01,
+    "net_recv_mb": 296.89,
+    "processes": 306,
+    "load_1m": 0.94,
+    "load_5m": 0.91,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 12.7
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 10.7
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 10.3
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:26.769121",
+    "cpu_percent": 13.7,
+    "mem_percent": 46.8,
+    "mem_used_gb": 3.68,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 68.01,
+    "net_recv_mb": 296.89,
+    "processes": 309,
+    "load_1m": 0.86,
+    "load_5m": 0.9,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 17.6
+      },
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 15.1
+      },
+      {
+        "pid": 129267,
+        "name": "Isolated Web Co",
+        "cpu": 2.9
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 2.9
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      }
+    ]
+  },
+  {
+    "time": "2026-05-23T17:09:28.816683",
+    "cpu_percent": 5.5,
+    "mem_percent": 46.8,
+    "mem_used_gb": 3.69,
+    "mem_total_gb": 7.87,
+    "disk_percent": 67.0,
+    "net_sent_mb": 68.01,
+    "net_recv_mb": 296.9,
+    "processes": 309,
+    "load_1m": 0.86,
+    "load_5m": 0.9,
+    "load_15m": 1.05,
+    "top_processes": [
+      {
+        "pid": 2894,
+        "name": "gnome-shell",
+        "cpu": 7.8
+      },
+      {
+        "pid": 207667,
+        "name": "gnome-terminal-server",
+        "cpu": 3.4
+      },
+      {
+        "pid": 207974,
+        "name": "python3",
+        "cpu": 2.4
+      },
+      {
+        "pid": 3966,
+        "name": "firefox-esr",
+        "cpu": 1.5
       }
     ]
   }
