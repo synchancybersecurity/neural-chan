@@ -1,0 +1,3000 @@
+# Neural Chan — Ingested Dictionary
+
+**Source:** NTC's Super Mini English Dictionary  
+**Exported:** 2026-05-23 16:58:30  
+**Total Entries:** 1496
+
+---
+
+**abandon** — to leave completely and finally; forsake utterly
+
+**ability** — the quality of being able to do something
+
+**about** — on the subject of; concerning
+
+**above** — at a higher level or layer than
+
+**absent** — not in a certain place at a given time
+
+**absolute** — free from restriction or limitation; total
+
+**absorb** — to suck up or drink in
+
+**abstract** — thought of apart from concrete realities
+
+**abundant** — present in great quantity; plentiful
+
+**academy** — a school or college for special instruction
+
+**accelerate** — to cause faster development or progress
+
+**accent** — prominence of a syllable in terms of pitch or stress
+
+**accept** — to take or receive something willingly
+
+**access** — the ability to enter or approach
+
+**accident** — an undesirable or unfortunate happening
+
+**accompany** — to go along with; attend
+
+**accomplish** — to bring to completion; achieve
+
+**accord** — to be in agreement or harmony
+
+**according** — as stated by or in
+
+**account** — a description of events or experiences
+
+**accurate** — free from error or defect; precise
+
+**accuse** — to charge with a fault or offense
+
+**achieve** — to bring to a successful end; accomplish
+
+**acid** — a compound usually having a sour taste
+
+**acknowledge** — to admit to be real or true; recognize
+
+**acquire** — to come into possession of; get
+
+**across** — from one side to the other
+
+**act** — anything done or to be done; deed
+
+**action** — the process or state of acting
+
+**active** — engaged in action; characterized by energetic work
+
+**activity** — a thing that a person or group does
+
+**actor** — a person who acts in stage plays or movies
+
+**actual** — existing in act or fact; real
+
+**adapt** — to adjust oneself to different conditions
+
+**add** — to unite or join so as to increase the number
+
+**addition** — the action or process of adding
+
+**address** — a speech or written statement delivered to an audience
+
+**adequate** — sufficient for a specific requirement
+
+**adjust** — to change so as to match or fit
+
+**administration** — the management of any office or organization
+
+**admire** — to regard with wonder, pleasure, or approval
+
+**admit** — to allow to enter; grant entrance
+
+**adopt** — to choose or take as one's own
+
+**adult** — a person who is fully grown or developed
+
+**advance** — to move or bring forward
+
+**advantage** — any state or circumstance favorable to success
+
+**adventure** — an exciting or very unusual experience
+
+**advertise** — to announce or praise in public media
+
+**advice** — an opinion or recommendation offered as a guide
+
+**affair** — anything done or to be done; business
+
+**affect** — to act on; produce an effect or change
+
+**afford** — to be able to do or spare something
+
+**afraid** — feeling fear; frightened
+
+**after** — behind in place or order; next to
+
+**afternoon** — the part of the day between noon and evening
+
+**again** — once more; another time
+
+**against** — in opposition to; contrary to
+
+**age** — the length of time during which a being has existed
+
+**agency** — an organization or company that provides a service
+
+**agent** — a person who acts on behalf of another
+
+**ago** — before the present; earlier
+
+**agree** — to have the same views or opinions
+
+**agriculture** — the science or occupation of cultivating land
+
+**ahead** — in or to the front; forward
+
+**aid** — to provide support or assistance
+
+**aim** — to direct a course or specific purpose
+
+**air** — the invisible mixture of gases surrounding the earth
+
+**aircraft** — any machine capable of flying
+
+**airline** — a system of transporting people by air
+
+**airplane** — a heavier-than-air aircraft kept aloft by wings
+
+**airport** — a place where aircraft land and take off
+
+**alarm** — a sudden fear or distressing suspense
+
+**alcohol** — a colorless volatile flammable liquid
+
+**alive** — having life; living; not dead
+
+**all** — the whole of; every one of
+
+**allow** — to permit or let
+
+**almost** — very nearly; not quite
+
+**alone** — separate from others; solitary
+
+**along** — through the length of; in the course of
+
+**already** — by this or a specified time
+
+**also** — in addition; too; besides
+
+**although** — in spite of the fact that
+
+**always** — at all times; on every occasion
+
+**amaze** — to overwhelm with surprise or sudden wonder
+
+**amount** — the sum total of two or more quantities
+
+**amuse** — to entertain with laughter or interesting activity
+
+**analyze** — to separate into parts or basic principles
+
+**ancient** — of or in time long past
+
+**anger** — a strong feeling of displeasure and belligerence
+
+**angle** — the space within two lines diverging from a point
+
+**angry** — feeling or showing anger
+
+**animal** — any member of the kingdom Animalia
+
+**announce** — to make known publicly or officially
+
+**annual** — of or for a year; yearly
+
+**another** — being one more or more of the same
+
+**answer** — a spoken or written reply or response
+
+**anticipate** — to realize beforehand; foretaste or foresee
+
+**anxiety** — distress or uneasiness of mind caused by fear
+
+**anxious** — full of mental distress or uneasiness
+
+**any** — one of a group, without specification
+
+**anyone** — any person at all
+
+**anything** — any thing whatever; something, no matter what
+
+**anyway** — in any manner or way
+
+**anywhere** — in or to any place
+
+**apart** — into pieces or parts; to pieces
+
+**apartment** — a room or a group of related rooms
+
+**apologize** — to offer an apology or excuse
+
+**apparent** — readily seen or understood; obvious
+
+**appear** — to come into sight; become visible
+
+**appearance** — the act or fact of appearing
+
+**apple** — the usually round red or yellow edible fruit
+
+**application** — the act of putting to a special use or purpose
+
+**apply** — to make use of as relevant or suitable
+
+**appoint** — to name or assign to a position
+
+**appointment** — a fixed mutual agreement for a meeting
+
+**appreciate** — to be grateful or thankful for
+
+**approach** — to come near or nearer to
+
+**appropriate** — suitable or fitting for a particular purpose
+
+**approve** — to speak or think favorably of
+
+**architect** — a person who designs buildings
+
+**area** — any particular extent of space or surface
+
+**argue** — to present reasons for or against a thing
+
+**arise** — to get up from sitting or lying; rise
+
+**arm** — the upper limb of the human body
+
+**army** — a large body of persons trained and armed for war
+
+**around** — on all sides; in every direction
+
+**arrange** — to place in proper order; dispose
+
+**arrest** — to seize and hold by legal authority
+
+**arrive** — to come to a certain point in the course of travel
+
+**art** — the quality or expression of what is beautiful
+
+**article** — a written composition on a specific subject
+
+**artist** — a person who produces works of art
+
+**ash** — the powdery residue of matter that remains after burning
+
+**aside** — on or to one side; away from the main subject
+
+**ask** — to put a question to; inquire of
+
+**asleep** — in or into a state of sleep
+
+**aspect** — the appearance of something to the eye or mind
+
+**assist** — to give support or aid to
+
+**assistance** — help or support
+
+**associate** — to connect or bring into relation in thought
+
+**assume** — to take for granted or without proof
+
+**assure** — to declare earnestly or confidently to
+
+**athlete** — a person trained in exercises or games requiring skill
+
+**atmosphere** — the gaseous envelope surrounding the earth
+
+**attach** — to fasten or join one thing to another
+
+**attack** — to set upon with violent force
+
+**attempt** — to make an effort at; try
+
+**attend** — to be present at
+
+**attention** — the act or faculty of concentrating mentally
+
+**attitude** — manner or feeling shown in posture or expression
+
+**attract** — to draw by appeal to natural interest or emotion
+
+**audience** — the group of spectators at a public event
+
+**author** — a person who writes a novel, poem, or essay
+
+**authority** — the power to determine or settle issues
+
+**automatic** — having the capability of starting or operating itself
+
+**automobile** — a passenger vehicle designed for operation on roads
+
+**available** — suitable or ready for use; accessible
+
+**average** — a quantity intermediate to a set of quantities
+
+**avoid** — to keep away from; keep clear of
+
+**awake** — to wake up; rouse from sleep
+
+**award** — to give as due or merited; assign
+
+**aware** — having knowledge of something
+
+**away** — from this or that place; off
+
+**awful** — extremely bad; unpleasant; disagreeable
+
+**background** — the part of a picture or scene that is farthest from the viewer
+
+**backward** — directed behind or to the rear
+
+**bacteria** — microorganisms that are typically a few micrometres in length
+
+**bad** — of poor quality or a low standard
+
+**bag** — a container used for carrying things
+
+**bake** — to cook food by dry heat without direct exposure to a flame
+
+**balance** — an even distribution of weight enabling someone to remain upright
+
+**ball** — a solid or hollow spherical or egg-shaped object
+
+**balloon** — a small inflatable rubber pouch
+
+**ban** — to officially or legally prohibit
+
+**band** — a flat, thin strip or loop of material
+
+**bank** — the land alongside or sloping down to a river
+
+**bar** — a long rigid piece of wood or metal
+
+**bare** — uncovered; without clothing
+
+**bargain** — an agreement between two or more parties
+
+**bark** — the sharp explosive cry of certain animals
+
+**barn** — a large farm building used for storage
+
+**base** — the lowest part or edge of something
+
+**basic** — forming an essential foundation
+
+**basis** — the underlying support or foundation for an idea
+
+**basket** — a container used to hold or carry things
+
+**bat** — an implement with a handle and a solid surface
+
+**bath** — an act or process of immersing and washing one's body
+
+**battle** — a sustained fight between large organized armed forces
+
+**beach** — a pebbly or sandy shore by the sea
+
+**bear** — to carry; to support the weight of
+
+**beat** — to strike repeatedly so as to inflict pain
+
+**beautiful** — pleasing the senses or mind aesthetically
+
+**because** — for the reason that; since
+
+**become** — to begin to be; to develop into
+
+**bed** — a piece of furniture for sleep or rest
+
+**bedroom** — a room for sleeping in
+
+**beef** — the flesh of a cow, bull, or ox
+
+**beer** — an alcoholic drink made from yeast-fermented malt
+
+**before** — during the period of time preceding
+
+**beg** — to ask someone earnestly or humbly for something
+
+**begin** — to start; to perform or undergo the first part of an action
+
+**beginning** — the point in time or space at which something starts
+
+**behave** — to act or conduct oneself in a specified way
+
+**behavior** — the way in which one acts or conducts oneself
+
+**behind** — at or to the far side of something
+
+**believe** — to accept something as true; feel sure of the truth of
+
+**bell** — a hollow metal object that makes a ringing sound
+
+**belong** — to be the property of
+
+**below** — at a lower level or layer than
+
+**belt** — a strip of leather or other material worn around the waist
+
+**bench** — a long seat for several people
+
+**bend** — to shape or force something straight into a curve
+
+**benefit** — an advantage or profit gained from something
+
+**beside** — at the side of; next to
+
+**best** — of the most excellent or desirable type
+
+**bet** — to risk something on the outcome of a future event
+
+**better** — of a more excellent or effective type
+
+**between** — at, into, or across the space separating two objects
+
+**beyond** — at or to the further side of
+
+**bicycle** — a vehicle composed of two wheels held in a frame
+
+**big** — of considerable size or extent
+
+**bill** — an amount of money owed for goods supplied
+
+**billion** — the number equivalent to one thousand million
+
+**bind** — to tie or fasten tightly together
+
+**biography** — an account of someone's life written by someone else
+
+**biology** — the study of living organisms
+
+**bird** — a warm-blooded egg-laying vertebrate animal
+
+**birth** — the emergence of a baby from the body of its mother
+
+**birthday** — the anniversary of the day on which a person was born
+
+**bit** — a small piece or quantity of something
+
+**bite** — to use the teeth to cut into something
+
+**black** — of the very darkest color
+
+**blade** — the flat cutting edge of a knife or similar tool
+
+**blame** — to assign responsibility for a fault or wrong
+
+**blank** — not written or printed on
+
+**blind** — unable to see
+
+**block** — a large solid piece of hard material
+
+**blood** — the red liquid that circulates in the arteries and veins
+
+**blow** — to move creating an air current
+
+**blue** — of a color intermediate between green and violet
+
+**board** — a long, thin, flat piece of wood
+
+**boat** — a small vessel propelled on water by oars or an engine
+
+**body** — the physical structure of a person or an animal
+
+**boil** — to reach or cause to reach the temperature at which it bubbles
+
+**bomb** — a container filled with explosive or incendiary material
+
+**bond** — a thing used to tie something or to fasten things together
+
+**bone** — any of the pieces of hard tissue making up the skeleton
+
+**book** — a written or printed work consisting of pages
+
+**boot** — a sturdy item of footwear covering the foot and ankle
+
+**border** — a line separating two countries or areas
+
+**bore** — to make a hole in something with a drill
+
+**born** — existing as a result of birth
+
+**borrow** — to take and use something belonging to someone else
+
+**boss** — a person who is in charge of a worker or organization
+
+**both** — used to refer to two people or things
+
+**bother** — to take the trouble to do something
+
+**bottle** — a container with a narrow neck used for storing liquids
+
+**bottom** — the lowest point or part
+
+**bowl** — a round, deep dish used for food
+
+**box** — a container with a flat base and sides
+
+**boy** — a male child or young man
+
+**brain** — an organ of soft nervous tissue contained in the skull
+
+**branch** — a part of a tree that grows out from the trunk
+
+**brave** — ready to face and endure danger or pain
+
+**bread** — food made of flour, water, and yeast
+
+**break** — to separate into pieces as a result of a blow or shock
+
+**breakfast** — the first meal of the day
+
+**breath** — the air taken into or expelled from the lungs
+
+**breathe** — to take air into the lungs and then expel it
+
+**brick** — a small rectangular block typically made of fired clay
+
+**bridge** — a structure carrying a road or path across an obstacle
+
+**brief** — of short duration; not lasting for long
+
+**bright** — giving out or reflecting much light
+
+**bring** — to take or go with someone or something to a place
+
+**broad** — having a distance larger than usual from side to side
+
+**broadcast** — to transmit a program or information by radio or television
+
+**brother** — a man or boy in relation to other children of his parents
+
+**brown** — of a color produced by mixing red, yellow, and blue
+
+**brush** — an implement with a handle and bristles
+
+**budget** — an estimate of income and expenditure for a set period
+
+**build** — to construct something by putting parts or material together
+
+**building** — a structure with a roof and walls
+
+**bullet** — a projectile for firing from a gun
+
+**bunch** — a number of things growing or fastened together
+
+**burn** — to flame or glow while consuming a material
+
+**burst** — to break open or apart suddenly and violently
+
+**bury** — to put or hide under ground
+
+**bus** — a large motor vehicle carrying passengers
+
+**bush** — a shrub or clump of shrubs with stems of moderate length
+
+**business** — a person's regular occupation or trade
+
+**busy** — having a great deal to do
+
+**but** — used to introduce something contrasting with what has been said
+
+**butter** — a pale yellow edible fatty substance
+
+**button** — a small disk or knob sewn onto a garment
+
+**buy** — to acquire in exchange for payment
+
+**calculate** — to determine the amount or number of something mathematically
+
+**call** — to cry out a word or words
+
+**calm** — not showing or feeling nervousness or anger
+
+**camera** — a device for recording visual images
+
+**camp** — a place with temporary accommodation in tents or cabins
+
+**campaign** — a series of military operations in a particular area
+
+**campus** — the grounds and buildings of a university or college
+
+**can** — to be able to
+
+**cancel** — to decide or announce that a planned event will not take place
+
+**cancer** — a disease caused by an uncontrolled division of abnormal cells
+
+**candidate** — a person who applies for a job or is nominated for election
+
+**cap** — a kind of soft flat hat
+
+**capable** — having the ability or fitness to do something
+
+**capacity** — the maximum amount that something can contain
+
+**capital** — the city or town that functions as the seat of government
+
+**captain** — the person in command of a ship, aircraft, or team
+
+**capture** — to take into one's possession or control by force
+
+**car** — a road vehicle with an engine and four wheels
+
+**card** — a piece of thick stiff paper or thin cardboard
+
+**care** — the provision of what is necessary for health and welfare
+
+**career** — an occupation undertaken for a significant period of life
+
+**careful** — making sure of avoiding potential danger or harm
+
+**careless** — not giving sufficient attention or thought to avoiding harm
+
+**carpet** — a floor covering made from thick woven fabric
+
+**carry** — to support and move someone or something from one place to another
+
+**case** — an instance of a particular situation; an example of something occurring
+
+**cash** — money in coins or notes
+
+**cast** — to throw forcefully in a specified direction
+
+**castle** — a large building, typically of the medieval period
+
+**cat** — a small domesticated carnivorous mammal
+
+**catch** — to intercept and hold something that has been thrown
+
+**category** — a class or division of people or things regarded as having shared characteristics
+
+**cattle** — large ruminant animals with horns and cloven hoofs
+
+**cause** — a person or thing that gives rise to an action or condition
+
+**cave** — a large natural underground chamber in a hillside or cliff
+
+**cell** — the smallest structural and functional unit of an organism
+
+**center** — the point that is equally distant from every point on the circumference
+
+**century** — a period of one hundred years
+
+**ceremony** — a formal religious or public occasion
+
+**certain** — known for sure; established beyond doubt
+
+**chain** — a series of connected links or rings
+
+**chair** — a separate seat for one person, typically with a back and four legs
+
+**challenge** — a call to take part in a contest or competition
+
+**champion** — a person who has defeated all opponents in a competition
+
+**chance** — a possibility of something happening
+
+**change** — to make or become different
+
+**channel** — a length of water wider than a strait
+
+**chapter** — a main division of a book, typically with a number or title
+
+**character** — the mental and moral qualities distinctive to an individual
+
+**charge** — to demand a price from someone for a service rendered
+
+**charity** — an organization set up to provide help and raise money
+
+**charm** — the power or quality of delighting or attracting people
+
+**chart** — a sheet of information in the form of a table or graph
+
+**chase** — to pursue in order to catch or catch up with
+
+**cheap** — low in price, especially in relation to similar items
+
+**cheat** — to act dishonestly or unfairly in order to gain an advantage
+
+**check** — to examine something in order to ascertain its accuracy
+
+**cheek** — either side of the face below the eye
+
+**cheer** — to shout for joy or in praise or encouragement
+
+**cheese** — a food made from the pressed curds of milk
+
+**chemical** — relating to chemistry or the interactions of substances
+
+**chemistry** — the branch of science concerned with the substances of which matter is composed
+
+**chest** — the front surface of a person's body
+
+**chicken** — a domestic fowl kept for its eggs or meat
+
+**chief** — a leader or ruler of a people or clan
+
+**child** — a young human being below the age of puberty
+
+**childhood** — the state or period of being a child
+
+**chocolate** — a food preparation made from roasted and ground cacao seeds
+
+**choice** — an act of selecting or making a decision when faced with two or more possibilities
+
+**choose** — to pick out or select from a number of alternatives
+
+**church** — a building used for public Christian worship
+
+**cigarette** — a thin cylinder of finely cut tobacco rolled in paper for smoking
+
+**circle** — a round plane figure whose boundary consists of points equidistant from the center
+
+**circumstance** — a fact or condition connected with or relevant to an event or action
+
+**citizen** — a legally recognized subject or national of a state or commonwealth
+
+**city** — a large town
+
+**civil** — relating to ordinary citizens and their concerns
+
+**claim** — to state or assert that something is the case
+
+**class** — a set or category of things having some property or attribute in common
+
+**classic** — judged over a period of time to be of the highest quality
+
+**classroom** — a room in which a class of pupils or students is taught
+
+**clay** — a stiff, sticky fine-grained earth
+
+**clean** — free from dirt, marks, or stains
+
+**clear** — easy to perceive, understand, or interpret
+
+**clerk** — a person employed in an office or bank
+
+**clever** — quick to understand, learn, and devise or apply ideas
+
+**click** — to make a short, sharp sound
+
+**client** — a person or organization using the services of a professional person or company
+
+**climate** — the weather conditions prevailing in an area
+
+**climb** — to go or come up a slope, incline, or staircase
+
+**clock** — a mechanical or electrical device for measuring time
+
+**close** — a short distance away or apart in space or time
+
+**cloth** — woven or felted fabric made from wool, cotton, or similar fiber
+
+**clothes** — items worn to cover the body
+
+**cloud** — a visible mass of condensed watery vapor floating in the atmosphere
+
+**club** — an association dedicated to a particular interest or activity
+
+**coach** — a large motor vehicle for carrying passengers
+
+**coal** — a combustible black or dark gray rock
+
+**coast** — the part of the land near the sea; the seashore
+
+**coat** — an outer garment worn outdoors
+
+**code** — a system of words, letters, or symbols used to represent others
+
+**coffee** — a hot drink made from the roasted and ground seeds of a tropical shrub
+
+**coin** — a flat, typically round piece of metal with an official stamp
+
+**cold** — of or at a low or relatively low temperature
+
+**collapse** — to suddenly fall down or give way
+
+**collar** — a band of material around the neck of a shirt or other garment
+
+**colleague** — a person with whom one works in a profession or business
+
+**collect** — to bring or gather together things
+
+**college** — an educational institution or establishment
+
+**color** — the property possessed by an object of producing different sensations
+
+**column** — an upright pillar, typically cylindrical and supporting an arch or entablature
+
+**combination** — a joining or merging of different parts
+
+**combine** — to unite or merge things into a single unit
+
+**come** — to move or travel toward or into a place
+
+**comfort** — a state of physical ease and freedom from pain or constraint
+
+**command** — to give an authoritative order
+
+**comment** — a verbal or written remark expressing an opinion or reaction
+
+**commercial** — concerned with or engaged in commerce
+
+**commission** — an instruction, command, or duty given to a person or group
+
+**commit** — to carry out or perpetrate a mistake, crime, or immoral act
+
+**committee** — a group of people appointed for a specific function
+
+**common** — occurring, found, or done often; prevalent
+
+**communicate** — to share or exchange information or ideas
+
+**communication** — the imparting or exchanging of information or news
+
+**community** — a group of people living in the same place or having a particular characteristic in common
+
+**company** — a commercial business
+
+**compare** — to estimate, measure, or note the similarity or dissimilarity between
+
+**compete** — to strive to gain or win something by defeating others
+
+**competition** — the activity or condition of competing
+
+**complain** — to express dissatisfaction or annoyance about something
+
+**complete** — having all the necessary or appropriate parts
+
+**complex** — consisting of many different and connected parts
+
+**computer** — an electronic device for storing and processing data
+
+**concentrate** — to focus one's attention or mental effort on a particular object or activity
+
+**concept** — an abstract idea; a general notion
+
+**concern** — to relate to; be about
+
+**concert** — a musical performance given in public
+
+**condition** — the state of something with regard to its appearance, quality, or working order
+
+**conduct** — to organize and carry out
+
+**conference** — a formal meeting for discussion
+
+**confidence** — the feeling or belief that one can rely on someone or something
+
+**confirm** — to establish the truth or correctness of something previously believed
+
+**conflict** — a serious disagreement or argument
+
+**confuse** — to cause someone to become bewildered or perplexed
+
+**connect** — to bring together or into contact so that a real link is established
+
+**connection** — a relationship in which a person or thing is linked with something else
+
+**conscious** — aware of and responding to one's surroundings
+
+**consider** — to think carefully about something before making a decision
+
+**considerable** — notably large in size, amount, or extent
+
+**consist** — to be composed or made up of
+
+**constant** — occurring continuously over a period of time
+
+**construct** — to build or erect something
+
+**construction** — the building of something, typically a large structure
+
+**consume** — to eat, drink, or ingest something
+
+**contact** — the state of physical touching
+
+**contain** — to have something inside or as part of a whole
+
+**container** — an object that can be used to hold or transport something
+
+**contemporary** — living or occurring at the same time
+
+**content** — the things that are held or included in something
+
+**contest** — an event in which people compete for supremacy
+
+**context** — the circumstances that form the setting for an event or statement
+
+**continue** — to persist in an activity or process
+
+**contract** — a written or spoken agreement
+
+**contrast** — the state of being strikingly different from something else
+
+**contribute** — to give something in order to help achieve or provide something
+
+**control** — to determine the behavior or supervise the running of
+
+**convenient** — fitting in well with a person's needs or plans
+
+**conversation** — a talk, especially an informal one, between two or more people
+
+**cook** — to prepare food by heating it
+
+**cool** — of or at a fairly low temperature
+
+**copper** — a red-brown metal, the chemical element of atomic number 29
+
+**copy** — a thing made to be similar or identical to another
+
+**corn** — a North American cereal plant that yields large grains
+
+**corner** — a place or angle where two or more sides or edges meet
+
+**correct** — free from error; in accordance with fact or truth
+
+**cost** — an amount that has to be paid or spent to buy or obtain something
+
+**cottage** — a small house, typically in the country
+
+**cotton** — a soft white fibrous substance that surrounds the seeds of a tropical plant
+
+**cough** — to expel air from the lungs with a sudden sharp sound
+
+**could** — used as past tense of can
+
+**council** — an advisory, deliberative, or administrative body
+
+**count** — to determine the total number of a collection of items
+
+**country** — a nation with its own government
+
+**couple** — two individuals of the same sort considered together
+
+**courage** — the ability to do something that frightens one
+
+**course** — the route or direction followed by a ship, aircraft, or road
+
+**court** — a tribunal presided over by a judge
+
+**cousin** — a child of one's uncle or aunt
+
+**cover** — to place something over or in front of something in order to protect it
+
+**cow** — a fully grown female animal of a domesticated breed of ox
+
+**crack** — a line on the surface of something along which it has split
+
+**craft** — an activity involving skill in making things by hand
+
+**crash** — to collide violently with an obstacle or another vehicle
+
+**crazy** — mentally deranged, especially as manifested in a wild or aggressive way
+
+**cream** — the thick white or pale yellow fatty liquid that rises to the top of milk
+
+**create** — to bring something into existence
+
+**creature** — an animal, as distinct from a human being
+
+**credit** — the ability of a customer to obtain goods or services before payment
+
+**crew** — a group of people who work on and operate a ship or aircraft
+
+**crime** — an action or omission that constitutes an offense
+
+**criminal** — relating to crime
+
+**crisis** — a time of intense difficulty, trouble, or danger
+
+**critic** — a person who expresses an unfavorable opinion of something
+
+**critical** — expressing adverse or disapproving comments or judgments
+
+**criticism** — the expression of disapproval of someone or something based on perceived faults
+
+**crop** — a cultivated plant that is grown on a large scale
+
+**cross** — to go across from one side to the other
+
+**crowd** — a large number of people gathered together
+
+**crowded** — filled with more people than there is room for
+
+**cruel** — willfully causing pain or suffering to others
+
+**crush** — to compress or squeeze forcefully so as to break or distort
+
+**cry** — to shed tears as an expression of distress or pain
+
+**culture** — the arts and other manifestations of human intellectual achievement
+
+**cup** — a small bowl-shaped container for drinking from
+
+**cupboard** — a recess or piece of furniture with doors and usually shelves
+
+**cure** — to relieve a person or animal of the symptoms of a disease or condition
+
+**curiosity** — a strong desire to know or learn something
+
+**curious** — eager to know or learn something
+
+**current** — belonging to the present time
+
+**curtain** — a piece of material suspended at the top to form a screen
+
+**curve** — a line or outline that gradually deviates from being straight
+
+**cushion** — a bag of cloth stuffed with a mass of soft material
+
+**custom** — a traditional and widely accepted way of behaving
+
+**customer** — a person or organization that buys goods or services from a store
+
+**cut** — to make an opening or incision with a sharp-edged tool
+
+**cycle** — a series of events that are regularly repeated in the same order
+
+**damage** — physical harm caused to something
+
+**dance** — to move rhythmically to music
+
+**danger** — the possibility of suffering harm or injury
+
+**dark** — with little or no light
+
+**data** — facts and statistics collected together for reference or analysis
+
+**date** — the day of the month or year as specified by a number
+
+**daughter** — a girl or woman in relation to her parents
+
+**dawn** — the first appearance of light in the morning
+
+**day** — each of the twenty-four-hour periods into which a week is divided
+
+**dead** — no longer alive
+
+**deal** — to distribute cards in a game
+
+**death** — the action or fact of dying or being killed
+
+**debt** — something, typically money, that is owed or due
+
+**decade** — a period of ten years
+
+**decay** — to rot or decompose through the action of bacteria and fungi
+
+**december** — the twelfth month of the year
+
+**decide** — to come to a resolution in the mind as a result of consideration
+
+**decision** — a conclusion or resolution reached after consideration
+
+**declare** — to announce something clearly, firmly, and officially
+
+**decorate** — to make something look more attractive by adding extra items
+
+**decrease** — to make or become less; to diminish
+
+**deep** — extending far down from the top or surface
+
+**defeat** — to win victory over someone in a battle or contest
+
+**defend** — to resist an attack made on someone or something
+
+**defense** — the action of defending from or resisting attack
+
+**define** — to state or describe the exact nature or scope of
+
+**definite** — clearly stated or decided; not vague or doubtful
+
+**definition** — a statement of the exact meaning of a word
+
+**degree** — the amount, level, or extent to which something happens or is present
+
+**delay** — to make someone or something late or slow
+
+**delegate** — a person sent or authorized to represent others
+
+**deliver** — to bring and hand over a letter, parcel, or ordered goods
+
+**demand** — an insistent and peremptory request
+
+**demonstrate** — to give a practical exhibition and explanation of
+
+**deny** — to state that one refuses to admit the truth or existence of
+
+**depart** — to leave, especially in order to start a journey
+
+**department** — a division of a large organization dealing with a specific area
+
+**depend** — to rely on someone or something for support
+
+**deposit** — a sum of money placed or kept in a bank account
+
+**depress** — to make someone feel utterly dispirited or dejected
+
+**depth** — the distance from the top or surface to the bottom of something
+
+**derive** — to obtain something from a specified source
+
+**describe** — to give an account in words of someone or something
+
+**description** — a spoken or written representation or account of a person or object
+
+**desert** — a waterless, desolate area of land with little vegetation
+
+**design** — a plan or drawing produced to show the look and function of something
+
+**desire** — a strong feeling of wanting to have something or wishing for something
+
+**desk** — a piece of furniture with a flat top and legs
+
+**despair** — the complete loss or absence of hope
+
+**destroy** — to put an end to the existence of something by damaging it
+
+**detail** — an individual feature, fact, or item
+
+**detect** — to discover or identify the presence or existence of
+
+**determine** — to ascertain or establish exactly by research or calculation
+
+**develop** — to grow or cause to grow and become more mature or advanced
+
+**development** — the process of developing or being developed
+
+**device** — a thing made or adapted for a particular purpose
+
+**devil** — the supreme spirit of evil
+
+**devote** — to dedicate time or effort to a particular task or purpose
+
+**dictionary** — a book or electronic resource that lists the words of a language
+
+**die** — to stop living
+
+**diet** — the kinds of food that a person, animal, or community habitually eats
+
+**differ** — to be unlike or dissimilar
+
+**difference** — a point or way in which people or things are not the same
+
+**different** — not the same as another or each other; unlike in nature or form
+
+**difficult** — needing much effort or skill to accomplish or understand
+
+**difficulty** — a thing that is hard to accomplish or comprehend
+
+**dig** — to break up and move earth with a tool or machine
+
+**dinner** — the main meal of the day, taken either around midday or in the evening
+
+**direct** — extending or moving from one place to another by the shortest way
+
+**direction** — the course or path on which something is moving or pointing
+
+**director** — a person who is in charge of an activity, department, or organization
+
+**dirt** — any substance that makes something unclean
+
+**disappoint** — to fail to fulfill the hopes or expectations of someone
+
+**discover** — to find something unexpectedly or in the course of a search
+
+**discovery** — the action or process of discovering or being discovered
+
+**discuss** — to talk about something with another person or group
+
+**discussion** — the action or process of talking about something
+
+**disease** — a disorder of structure or function in a human, animal, or plant
+
+**dish** — a shallow, typically flat-bottomed container for cooking or serving food
+
+**dismiss** — to order or allow to leave; send away
+
+**display** — to put something in a prominent place for it to be seen
+
+**distance** — the length of the space between two points
+
+**distant** — far away in space or time
+
+**distinct** — recognizably different in nature from something else
+
+**distinguish** — to recognize or treat someone or something as different
+
+**distribute** — to give out shares of something; deal out
+
+**district** — an area of a country or city
+
+**disturb** — to interfere with the normal arrangement or functioning of
+
+**divide** — to separate or be separated into parts
+
+**division** — the action of separating something into parts
+
+**doctor** — a qualified practitioner of medicine; a physician
+
+**document** — a piece of written, printed, or electronic matter that provides information
+
+**dog** — a domesticated carnivorous mammal
+
+**dollar** — the basic monetary unit of the US, Canada, Australia, and other countries
+
+**door** — a hinged, sliding, or revolving barrier at the entrance to a building
+
+**dot** — a small round mark or point
+
+**double** — consisting of two equal, identical, or similar parts or things
+
+**doubt** — a feeling of uncertainty or lack of conviction
+
+**down** — toward or in a lower place or position
+
+**dozen** — a group or set of twelve
+
+**draft** — a preliminary version of a piece of writing
+
+**drag** — to pull someone or something along forcefully or with difficulty
+
+**drain** — to empty or dry by removing liquid
+
+**drama** — a play for theater, radio, or television
+
+**draw** — to produce a picture with a pen or pencil
+
+**drawer** — a boxlike storage compartment without a lid
+
+**dream** — a series of thoughts, images, and sensations occurring in a person's mind
+
+**dress** — a one-piece garment for a woman or girl that covers the body
+
+**drink** — to take liquid into the mouth and swallow
+
+**drive** — to operate and control the direction and speed of a motor vehicle
+
+**driver** — a person who drives a vehicle
+
+**drop** — to let or make something fall vertically
+
+**drown** — to die through submersion in and inhalation of liquid
+
+**drug** — a medicine or other substance which has a physiological effect
+
+**drum** — a percussion instrument sounded by being struck
+
+**dry** — free from moisture or liquid; not wet or moist
+
+**duck** — a waterbird with a broad blunt bill
+
+**due** — expected at or planned for at a certain time
+
+**dull** — lacking interest or excitement
+
+**during** — throughout the course or duration of
+
+**dust** — fine, dry powder consisting of tiny particles of earth or waste matter
+
+**duty** — a moral or legal obligation; a responsibility
+
+**each** — used to refer to every one of two or more people or things
+
+**eager** — strongly wanting to do or have something
+
+**ear** — the organ of hearing and balance in humans and other vertebrates
+
+**early** — happening or done before the usual or expected time
+
+**earn** — to obtain money in return for labor or services
+
+**earth** — the planet on which we live; the world
+
+**ease** — absence of difficulty or effort
+
+**east** — the direction toward the point of the horizon where the sun rises
+
+**eastern** — situated in or directed toward the east
+
+**easy** — achieved without great effort; presenting few difficulties
+
+**eat** — to put food into the mouth and chew and swallow it
+
+**economic** — relating to economics or the economy
+
+**economy** — the wealth and resources of a country or region
+
+**edge** — the outside limit of an object, area, or surface
+
+**edit** — to prepare written material for publication by correcting or modifying it
+
+**edition** — a particular form or version of a published text
+
+**editor** — a person who is in charge of the content of a publication
+
+**educate** — to give intellectual, moral, and social instruction to someone
+
+**education** — the process of receiving or giving systematic instruction
+
+**educator** — a person who provides instruction or education
+
+**effect** — a change which is a result or consequence of an action or cause
+
+**effective** — successful in producing a desired or intended result
+
+**efficient** — achieving maximum productivity with minimum wasted effort
+
+**effort** — a vigorous or determined attempt
+
+**egg** — an oval or round object laid by a female bird, reptile, or fish
+
+**eight** — equivalent to the product of two and four
+
+**either** — used before the first of two alternatives
+
+**elder** — a person of greater age than someone specified
+
+**elect** — to choose someone to hold public office or some other position
+
+**election** — a formal and organized choice by vote of a person for a political office
+
+**electric** — of, worked by, charged with, or producing electricity
+
+**electricity** — a form of energy resulting from the existence of charged particles
+
+**electronic** — of or relating to electronics or devices using many small components
+
+**element** — a part or aspect of something abstract, especially one that is essential
+
+**elephant** — a very large plant-eating mammal with a prehensile trunk
+
+**eliminate** — to completely remove or get rid of something
+
+**else** — in addition; different
+
+**elsewhere** — in or to another or different place
+
+**email** — messages distributed by electronic means from one computer user to another
+
+**embarrass** — to cause someone to feel awkward or ashamed
+
+**emerge** — to move out of or away from something and come into view
+
+**emergency** — a serious, unexpected, and often dangerous situation requiring immediate action
+
+**emotion** — a natural instinctive state of mind deriving from one's circumstances
+
+**emotional** — relating to a person's emotions
+
+**employ** — to give work to someone and pay them for it
+
+**employee** — a person employed for wages or salary
+
+**employer** — a person or organization that employs people
+
+**employment** — the condition of having paid work
+
+**empty** — containing nothing; not filled or occupied
+
+**enable** — to give someone or something the authority or means to do something
+
+**encounter** — to unexpectedly experience or be faced with something
+
+**encourage** — to give support, confidence, or hope to someone
+
+**end** — a final part of something, especially a period of time or activity
+
+**enemy** — a person who is actively opposed or hostile to someone or something
+
+**energy** — the strength and vitality required for sustained physical or mental activity
+
+**engage** — to occupy, attract, or involve someone's interest or attention
+
+**engine** — a machine with moving parts that converts power into motion
+
+**engineer** — a person who designs, builds, or maintains engines or machines
+
+**engineering** — the branch of science and technology concerned with the design of engines
+
+**enjoy** — to take delight or pleasure in an activity or occasion
+
+**enormous** — very large in size, quantity, or extent
+
+**enough** — as much or as many as required
+
+**ensure** — to make certain that something will occur
+
+**enter** — to come or go into a place
+
+**enterprise** — a project or undertaking, typically one that is difficult
+
+**entertain** — to provide someone with amusement or enjoyment
+
+**entertainment** — the action of providing or being provided with amusement
+
+**enthusiasm** — intense and eager enjoyment, interest, or approval
+
+**entire** — with no part left out; whole
+
+**entrance** — an opening, such as a door, passage, or gate, that allows access
+
+**entry** — an act of entering or gaining access to a place
+
+**environment** — the surroundings or conditions in which a person lives or operates
+
+**environmental** — relating to the natural world and the impact of human activity on it
+
+**equal** — being the same in quantity, size, degree, or value
+
+**equipment** — the necessary items for a particular purpose
+
+**era** — a long and distinct period of history with a particular feature
+
+**error** — a mistake
+
+**escape** — to break free from confinement or control
+
+**especially** — used to single out one person or thing over all others
+
+**essential** — absolutely necessary; extremely important
+
+**establish** — to set up on a firm or permanent basis
+
+**estate** — an area of land with a large house belonging to one person or family
+
+**estimate** — to roughly calculate or judge the value, number, or extent of
+
+**even** — used to emphasize something surprising or extreme
+
+**evening** — the period of time at the end of the day, usually from about 6 p.m.
+
+**event** — a thing that happens, especially one of importance
+
+**ever** — at any time
+
+**every** — used to refer to all the individual members of a set without exception
+
+**everybody** — everyone
+
+**everyday** — happening or used every day; daily
+
+**everyone** — every person; everybody
+
+**everything** — all things; all of something
+
+**everywhere** — in or to all places
+
+**exact** — not approximated in any way; precise
+
+**examine** — to inspect someone or something in detail to determine their nature
+
+**example** — a thing characteristic of its kind or illustrating a general rule
+
+**excellent** — extremely good; outstanding
+
+**except** — not including; other than
+
+**exception** — a person or thing that is excluded from a general statement
+
+**exchange** — an act of giving one thing and receiving another
+
+**excite** — to cause someone to feel very enthusiastic and eager
+
+**excitement** — a feeling of great enthusiasm and eagerness
+
+**exciting** — causing great enthusiasm and eagerness
+
+**exclude** — to deny someone access to a place, group, or privilege
+
+**excuse** — to seek to lessen the blame attaching to a fault or offense
+
+**execute** — to carry out or put into effect a plan, order, or course of action
+
+**exercise** — activity requiring physical effort, carried out to sustain or improve health
+
+**exhibit** — to publicly display a work of art or item of interest
+
+**exhibition** — a public display of works of art or items of interest
+
+**exist** — to have objective reality or being
+
+**existence** — the fact or state of living or having objective reality
+
+**expand** — to become or make larger or more extensive
+
+**expansion** — the action of increasing in size, number, or importance
+
+**expect** — to regard something as likely to happen; anticipate
+
+**expense** — the cost incurred in or required for something
+
+**expensive** — costing a lot of money
+
+**experience** — practical contact with and observation of facts or events
+
+**experiment** — a scientific test to discover or demonstrate something
+
+**expert** — a person who has a comprehensive and authoritative knowledge of a subject
+
+**explain** — to make an idea or situation clear to someone by describing it in detail
+
+**explanation** — a statement or account that makes something clear
+
+**explode** — to burst or shatter violently and noisily as a result of rapid combustion
+
+**explore** — to travel in or through an unfamiliar country or area in order to learn about it
+
+**explosion** — a violent shattering or blowing apart of something
+
+**export** — to send goods or services to another country for sale
+
+**expose** — to make something visible by uncovering it
+
+**express** — to convey a thought or feeling in words or by gestures and conduct
+
+**expression** — the process of making known one's thoughts or feelings
+
+**extend** — to cause to cover a larger area; make longer or wider
+
+**extension** — a part that is added to something to enlarge or prolong it
+
+**extensive** — covering a large area; having wide range or scope
+
+**extent** — the area covered by something
+
+**external** — belonging to or forming the outer surface or structure of something
+
+**extra** — added to an existing or usual amount or number
+
+**extraordinary** — very unusual or remarkable
+
+**extreme** — reaching a high or the highest degree; very great
+
+**eye** — each of a pair of globular organs in the head through which people see
+
+**face** — the front part of a person's head from the forehead to the chin
+
+**facility** — a place, amenity, or piece of equipment provided for a particular purpose
+
+**fact** — a thing that is known or proved to be true
+
+**factor** — a circumstance, fact, or influence that contributes to a result
+
+**factory** — a building or group of buildings where goods are manufactured
+
+**fail** — to be unsuccessful in achieving one's goal
+
+**failure** — the lack of success
+
+**fair** — treating people equally without favoritism or discrimination
+
+**faith** — complete trust or confidence in someone or something
+
+**fall** — to move downward, typically rapidly and freely without control
+
+**false** — not according with truth or fact
+
+**familiar** — well known from long or close association
+
+**family** — a group consisting of parents and children living together in a household
+
+**famous** — known about by many people
+
+**fan** — an apparatus with rotating blades that creates a current of air
+
+**fancy** — elaborate in structure or decoration
+
+**far** — at, to, or by a great distance
+
+**farm** — an area of land and its buildings used for growing crops and rearing animals
+
+**farmer** — a person who owns or manages a farm
+
+**fashion** — a popular trend, especially in styles of dress and ornament
+
+**fast** — moving or capable of moving at high speed
+
+**fat** — a natural oily substance occurring in animal bodies
+
+**father** — a man in relation to his child or children
+
+**fault** — an unattractive or unsatisfactory feature
+
+**favor** — an act of kindness beyond what is due or usual
+
+**favorite** — preferred before all others of the same kind
+
+**fear** — an unpleasant emotion caused by the belief that someone is dangerous
+
+**feature** — a distinctive attribute or aspect of something
+
+**february** — the second month of the year
+
+**fee** — a payment made to a professional person or to a professional body
+
+**feed** — to give food to
+
+**feel** — to be aware of a person or object through touching or being touched
+
+**feeling** — an emotional state or reaction
+
+**fellow** — a man or boy
+
+**female** — of or denoting the sex that can bear offspring or produce eggs
+
+**fence** — a barrier, railing, or other upright structure enclosing an area of land
+
+**festival** — a day or period of celebration, typically a religious commemoration
+
+**fetch** — to go for and then bring back someone or something
+
+**fever** — an abnormally high body temperature
+
+**few** — a small number of
+
+**field** — an area of open land, especially one planted with crops or pasture
+
+**fifteen** — equivalent to the product of three and five
+
+**fifth** — constituting number five in a sequence
+
+**fifty** — equivalent to the product of five and ten
+
+**fight** — to take part in a violent struggle involving the exchange of physical blows
+
+**figure** — a number, especially one that forms part of official statistics
+
+**file** — a folder or box for holding loose papers together and in order
+
+**fill** — to cause to become full
+
+**film** — a motion picture; a movie
+
+**final** — coming at the end of a series
+
+**finally** — after a long time, typically involving difficulty or delay
+
+**finance** — the management of large amounts of money, especially by governments
+
+**financial** — relating to finance
+
+**find** — to discover or perceive by chance or unexpectedly
+
+**fine** — of high quality
+
+**finger** — each of the four slender jointed parts attached to either hand
+
+**finish** — to bring a task or activity to an end; complete
+
+**fire** — a process in which substances combine chemically with oxygen
+
+**firm** — having a solid, almost unyielding surface or structure
+
+**first** — coming before all others in time or order
+
+**fish** — a limbless cold-blooded vertebrate animal with gills and fins
+
+**fishing** — the activity of catching fish
+
+**fit** — of a suitable quality, standard, or type to meet the required purpose
+
+**five** — equivalent to the sum of two and three
+
+**fix** — to fasten something securely in a particular place or position
+
+**flag** — a piece of cloth or similar material, typically oblong or square
+
+**flame** — a hot glowing body of ignited gas that is generated by something on fire
+
+**flash** — a sudden brief burst of bright light or a sudden glint from a reflective surface
+
+**flat** — having a level surface; without raised areas or indentations
+
+**flavor** — the distinctive taste of a food or drink
+
+**flesh** — the soft substance consisting of muscle and fat
+
+**flight** — the action or process of flying through the air
+
+**float** — to rest or move on or near the surface of a liquid without sinking
+
+**flood** — an overflow of a large amount of water beyond its normal limits
+
+**floor** — the lower surface of a room, on which one may walk
+
+**flour** — a powder obtained by grinding grain, typically wheat
+
+**flow** — to move along or out steadily and continuously in a current or stream
+
+**flower** — the seed-bearing part of a plant, consisting of reproductive organs
+
+**fly** — to move through the air using wings
+
+**focus** — the center of interest or activity
+
+**fold** — to bend something over on itself so that one part covers another
+
+**folk** — people in general
+
+**follow** — to go or come after a person or thing proceeding ahead
+
+**food** — any nutritious substance that people or animals eat or drink
+
+**fool** — a person who acts unwisely or imprudently
+
+**foot** — the end part of a person's arm beyond the wrist
+
+**football** — a form of team game played with an oval ball on a field
+
+**for** — in support of or in favor of
+
+**force** — strength or energy as an attribute of physical action or movement
+
+**foreign** — of, from, in, or characteristic of a country or language other than one's own
+
+**forest** — a large area covered chiefly with trees and undergrowth
+
+**forever** — for all future time; for always
+
+**forget** — to fail to remember
+
+**forgive** — to stop feeling angry or resentful toward someone for an offense
+
+**fork** — an implement with two or more prongs used for lifting food
+
+**form** — the visible shape or configuration of something
+
+**formal** — done in accordance with rules of convention or etiquette
+
+**formation** — the action of forming or process of being formed
+
+**former** — having previously been a particular thing
+
+**formula** — a mathematical relationship or rule expressed in symbols
+
+**fortune** — chance or luck as an arbitrary force affecting human affairs
+
+**forward** — in the direction that one is facing or traveling
+
+**found** — to establish or originate something
+
+**foundation** — the lowest load-bearing part of a building, typically below ground level
+
+**four** — equivalent to the product of two and two
+
+**fourteen** — equivalent to the product of seven and two
+
+**fourth** — constituting number four in a sequence
+
+**fox** — a carnivorous mammal with a pointed muzzle and bushy tail
+
+**frame** — a rigid structure that surrounds something such as a picture or door
+
+**free** — able to act or be done as one wishes; not under the control of another
+
+**freedom** — the power or right to act, speak, or think as one wants
+
+**freeze** — to become hardened into ice or a solid body through loss of heat
+
+**frequency** — the rate at which something occurs over a particular period of time
+
+**frequent** — occurring or done many times at short intervals
+
+**fresh** — newly made or obtained; not canned, frozen, or otherwise preserved
+
+**friday** — the day of the week before Saturday and following Thursday
+
+**friend** — a person whom one knows and with whom one has a bond of mutual affection
+
+**friendly** — kind and pleasant
+
+**friendship** — the emotions or conduct of friends
+
+**frighten** — to make someone afraid or anxious
+
+**from** — indicating the point in space at which a journey, motion, or action starts
+
+**front** — the side or part of an object or building that presents itself to view
+
+**fruit** — the sweet and fleshy product of a tree or other plant
+
+**fuel** — material such as coal, gas, or oil that is burned to produce heat or power
+
+**full** — containing or holding as much or as many as possible
+
+**fully** — completely or entirely; to the furthest extent
+
+**fun** — enjoyment, amusement, or lighthearted pleasure
+
+**function** — an activity or purpose natural to or intended for a person or thing
+
+**fund** — a sum of money saved or made available for a particular purpose
+
+**fundamental** — forming a necessary base or core; of central importance
+
+**funny** — causing laughter or amusement; humorous
+
+**fur** — the short, fine hair of certain animals
+
+**furniture** — large movable equipment, such as tables and chairs
+
+**further** — at, to, or by a greater distance
+
+**future** — the time or a period of time following the moment of speaking or writing
+
+**gain** — to obtain or secure something desired or favorable
+
+**game** — a form of play or sport, especially a competitive one played according to rules
+
+**gap** — a break or hole in an object or between two objects
+
+**garage** — a building or indoor area in which to park or keep a motor vehicle
+
+**garden** — a piece of ground, often near a house, used for growing flowers or vegetables
+
+**gas** — an airlike fluid substance which expands freely to fill any space available
+
+**gate** — a hinged barrier used to close an opening in a wall, fence, or hedge
+
+**gather** — to bring or come together into a group
+
+**general** — affecting or concerning all or most people or things; widespread
+
+**generate** — to produce or create
+
+**generation** — all of the people born and living at about the same time
+
+**generous** — showing a readiness to give more of something than is strictly necessary
+
+**gentle** — having or showing a mild, kind, or tender temperament
+
+**gentleman** — a chivalrous, courteous, or honorable man
+
+**geography** — the study of the physical features of the earth and its atmosphere
+
+**get** — to come to have or hold something; receive
+
+**giant** — an imaginary or mythical being of human form but superhuman size
+
+**gift** — a thing given willingly to someone without payment; a present
+
+**girl** — a female child
+
+**give** — to freely transfer the possession of something to someone
+
+**glad** — pleased; happy
+
+**glass** — a hard, brittle substance, typically transparent or translucent
+
+**global** — relating to the whole world; worldwide
+
+**glove** — a covering for the hand worn for protection against cold or dirt
+
+**goal** — the object of a person's ambition or effort; an aim or desired result
+
+**god** — the creator and ruler of the universe and source of all moral authority
+
+**gold** — a yellow precious metal, the chemical element of atomic number 79
+
+**good** — to be desired or approved of
+
+**goodbye** — used to express good wishes when parting or at the end of a conversation
+
+**goods** — merchandise or possessions
+
+**govern** — to conduct the policy, actions, and affairs of a state or organization
+
+**government** — the governing body of a nation, state, or community
+
+**governor** — the elected executive head of a state in the US
+
+**grab** — to grasp or seize suddenly and roughly
+
+**grade** — a particular level of rank, quality, or proficiency
+
+**gradually** — in a gradual way; slowly; by degrees
+
+**grain** — wheat or any other cultivated cereal crop used as food
+
+**grand** — magnificent and imposing in appearance, size, or style
+
+**grandfather** — the father of one's father or mother
+
+**grandmother** — the mother of one's father or mother
+
+**grant** — to agree to give or allow something requested
+
+**grass** — vegetation consisting of typically short plants with long narrow leaves
+
+**grateful** — feeling or showing an appreciation of kindness; thankful
+
+**grave** — a hole dug in the ground to receive a coffin or dead body
+
+**great** — of an extent, amount, or intensity considerably above the normal or average
+
+**green** — of the color between blue and yellow in the spectrum
+
+**grey** — of a color intermediate between black and white
+
+**ground** — the solid surface of the earth
+
+**group** — a number of people or things that are located close together or classed together
+
+**grow** — to undergo natural development by increasing in size and changing physically
+
+**growth** — the process of increasing in physical size
+
+**guarantee** — a formal promise or assurance that certain conditions shall be fulfilled
+
+**guard** — a person who keeps watch over something or someone
+
+**guess** — to estimate or suppose something without sufficient information to be sure
+
+**guest** — a person who is invited to visit someone's home or take part in a function
+
+**guide** — a person who advises or shows the way to others
+
+**guilt** — the fact of having committed a specified or implied offense or crime
+
+**guilty** — culpable of or responsible for a specified wrongdoing
+
+**gun** — a weapon incorporating a metal tube from which bullets are propelled
+
+**guy** — a man
+
+**habit** — a settled or regular tendency or practice, especially one that is hard to give up
+
+**hair** — any of the fine threadlike strands growing from the skin of humans
+
+**half** — either of two equal or corresponding parts into which something is or can be divided
+
+**hall** — the room or space just inside the front entrance of a house
+
+**hand** — the end part of a person's arm beyond the wrist
+
+**handle** — to feel or manipulate with the hands
+
+**hang** — to suspend or be suspended from above with the lower part not attached
+
+**happen** — to take place; occur
+
+**happy** — feeling or showing pleasure or contentment
+
+**hard** — solid, firm, and resistant to pressure; not easily broken
+
+**hardly** — scarcely; barely
+
+**harm** — physical injury, especially that which is deliberately inflicted
+
+**hat** — a shaped covering for the head worn for warmth or as a fashion item
+
+**hate** — to feel intense or passionate dislike for someone
+
+**have** — to possess, own, or hold
+
+**head** — the upper part of the human body, or the front or upper part of the body
+
+**health** — the state of being free from illness or injury
+
+**healthy** — in good health
+
+**hear** — to perceive with the ear the sound made by someone or something
+
+**heart** — a hollow muscular organ that pumps the blood through the circulatory system
+
+**heat** — the quality of being hot; high temperature
+
+**heaven** — a place regarded in various religions as the abode of God and the angels
+
+**heavy** — of great weight; difficult to lift or move
+
+**height** — the measurement of someone or something from head to foot or from base to top
+
+**hell** — a place regarded in various religions as a spiritual realm of evil and suffering
+
+**hello** — used as a greeting or to begin a telephone conversation
+
+**help** — to make it easier or possible for someone to do something
+
+**helpful** — giving or ready to give help
+
+**her** — used as the object of a verb or preposition to refer to a female person
+
+**here** — in, at, or to this place or position
+
+**hero** — a person who is admired for their courage, outstanding achievements, or noble qualities
+
+**herself** — used as the object of a verb or preposition to refer to a female person previously mentioned
+
+**hide** — to put or keep out of sight; conceal from view
+
+**high** — of great vertical extent
+
+**hill** — a naturally raised area of land, not as high or craggy as a mountain
+
+**him** — used as the object of a verb or preposition to refer to a male person
+
+**himself** — used as the object of a verb or preposition to refer to a male person previously mentioned
+
+**hire** — to employ someone for wages
+
+**his** — belonging to or associated with a male person or animal previously mentioned
+
+**historical** — of or concerning history; concerning past events
+
+**history** — the study of past events, particularly in human affairs
+
+**hit** — to bring one's hand or a tool or weapon into contact with someone or something swiftly
+
+**hold** — to grasp, carry, or support with one's arms or hands
+
+**hole** — a hollow place in a solid body or surface
+
+**holiday** — a day of festivity or recreation when no work is done
+
+**home** — the place where one lives permanently, especially as a member of a family
+
+**homework** — schoolwork that a student is required to do at home
+
+**honest** — free of deceit and untruthfulness; sincere
+
+**honor** — high respect; great esteem
+
+**hope** — a feeling of expectation and desire for a certain thing to happen
+
+**horizon** — the line at which the earth's surface and the sky appear to meet
+
+**horse** — a solid-hoofed plant-eating domesticated mammal with a flowing mane and tail
+
+**hospital** — an institution providing medical and surgical treatment to the sick or injured
+
+**host** — a person who receives or entertains other people as guests
+
+**hot** — having a high degree of heat or a high temperature
+
+**hotel** — an establishment providing accommodations, meals, and other services for travelers
+
+**hour** — a period of time equal to a twenty-fourth part of a day and night
+
+**house** — a building for human habitation, especially one that is lived in by a family
+
+**household** — a house and its occupants regarded as a unit
+
+**housing** — houses and apartments considered collectively
+
+**how** — in what way or manner; by what means
+
+**however** — used to introduce a statement that contrasts with or seems to contradict something
+
+**huge** — extremely large; enormous
+
+**human** — relating to or characteristic of people or human beings
+
+**humor** — the quality of being amusing or comic, especially as expressed in literature or speech
+
+**hundred** — the number equivalent to the product of ten and ten
+
+**hunger** — a feeling of discomfort or weakness caused by lack of food, coupled with the desire to eat
+
+**hunt** — to pursue and kill a wild animal for sport or food
+
+**hurry** — to move or act with haste; rush
+
+**hurt** — to cause physical pain or injury to
+
+**husband** — a married man considered in relation to his spouse
+
+**hut** — a small, simple, single-story house or shelter
+
+**ice** — frozen water, a brittle, transparent crystalline solid
+
+**idea** — a thought or suggestion as to a possible course of action
+
+**ideal** — satisfying one's conception of what is perfect; most suitable
+
+**identify** — to establish or indicate who or what someone or something is
+
+**identity** — the fact of being who or what a person or thing is
+
+**ignore** — to refuse to take notice of or acknowledge
+
+**ill** — suffering from an illness or disease or feeling unwell
+
+**illegal** — contrary to or forbidden by law, especially criminal law
+
+**illness** — a disease or period of sickness affecting the body or mind
+
+**illustrate** — to provide a book, newspaper, etc. with pictures
+
+**image** — a representation of the external form of a person or thing in art
+
+**imagination** — the faculty or action of forming new ideas or images or concepts
+
+**imagine** — to form a mental image or concept of
+
+**immediate** — occurring or done at once; instant
+
+**immediately** — at once; instantly
+
+**import** — to bring goods or services into a country from abroad for sale
+
+**important** — of great significance or value; likely to have a profound effect on success
+
+**impress** — to make someone feel admiration and respect
+
+**impression** — an idea, feeling, or opinion about something or someone
+
+**improve** — to make or become better; to enhance in value or quality
+
+**improvement** — an example of improving or being improved
+
+**inch** — a unit of linear measure equal to one twelfth of a foot
+
+**incident** — an event or occurrence
+
+**include** — to comprise or contain as part of a whole
+
+**income** — money received, especially on a regular basis, for work or through investments
+
+**increase** — to become or make greater in size, amount, or degree
+
+**increasingly** — to an increasing extent; more and more
+
+**indeed** — without any question; truly
+
+**independent** — free from outside control; not depending on another's authority
+
+**index** — an alphabetical list of names, subjects, etc. with references to the places where they occur
+
+**indicate** — to point out; to show
+
+**individual** — single; separate
+
+**indoor** — situated, conducted, or used within a building or under cover
+
+**industry** — economic activity concerned with the processing of raw materials and manufacture
+
+**influence** — the capacity to have an effect on the character, development, or behavior of someone
+
+**inform** — to give facts or information to someone
+
+**information** — facts provided or learned about something or someone
+
+**initial** — existing or occurring at the beginning
+
+**injury** — physical harm or damage to someone's body caused by an accident or attack
+
+**ink** — a colored fluid used for writing, drawing, printing, or duplicating
+
+**inner** — situated inside or further inside; internal
+
+**innocent** — not guilty of a crime or offense
+
+**inquiry** — an act of asking for information
+
+**insect** — a small arthropod animal that has six legs and generally one or two pairs of wings
+
+**insert** — to place, fit, or thrust something into another thing
+
+**inside** — situated within the confines of something
+
+**insist** — to demand something forcefully, not accepting refusal
+
+**inspect** — to look at someone or something closely, typically to assess their condition
+
+**instance** — an example or single occurrence of something
+
+**instant** — happening immediately
+
+**instead** — as an alternative or substitute
+
+**institute** — an organization having a particular purpose, especially one that is involved with science
+
+**institution** — an organization founded for a religious, educational, social, or similar purpose
+
+**instruction** — detailed information telling how something should be done, operated, or assembled
+
+**instrument** — a tool or implement, especially one for delicate or scientific work
+
+**insurance** — a practice or arrangement by which a company or government agency provides a guarantee
+
+**intelligence** — the ability to acquire and apply knowledge and skills
+
+**intelligent** — having or showing intelligence, especially of a high level
+
+**intend** — to have a course of action as one's purpose or objective
+
+**intention** — a thing intended; an aim or plan
+
+**interest** — the feeling of wanting to know or learn about something or someone
+
+**interesting** — arousing curiosity or interest; holding or catching the attention
+
+**interior** — situated in or directed toward the inside
+
+**internal** — of or situated on the inside
+
+**international** — existing, occurring, or carried on between two or more nations
+
+**internet** — a global computer network providing a variety of information and communication facilities
+
+**interpret** — to explain the meaning of information or actions
+
+**interrupt** — to stop the continuous progress of an activity or process
+
+**interview** — a meeting of people face to face, especially for consultation
+
+**into** — expressing movement or action with the result that someone or something becomes enclosed
+
+**introduce** — to bring something into use or operation for the first time
+
+**introduction** — the action of introducing something
+
+**invent** — to create or design something that has not existed before
+
+**invention** — the action of inventing something, typically a process or device
+
+**invest** — to expend money with the expectation of achieving a profit or material result
+
+**investigate** — to carry out a systematic or formal inquiry to discover and examine the facts
+
+**investment** — the action or process of investing money for profit
+
+**invitation** — a written or verbal request inviting someone to go somewhere or do something
+
+**invite** — to make a polite, formal, or friendly request to someone to go somewhere or do something
+
+**involve** — to have or include something as a necessary or integral part or result
+
+**iron** — a strong, hard magnetic silvery-gray metal
+
+**island** — a piece of land surrounded by water
+
+**isolate** — to cause a person or place to be or remain alone or apart from others
+
+**issue** — an important topic or problem for debate or discussion
+
+**item** — an individual article or unit, especially one that is part of a list or collection
+
+**its** — belonging to or associated with a thing previously mentioned or easily identified
+
+**itself** — used as the object of a verb or preposition to refer to a thing previously mentioned
+
+**jacket** — a short coat, typically extending to the hips
+
+**jail** — a place for the confinement of people accused or convicted of a crime
+
+**jam** — to squeeze or pack tightly into a specified space
+
+**january** — the first month of the year, in the northern hemisphere
+
+**jealous** — feeling or showing envy of someone or their achievements and advantages
+
+**job** — a paid position of regular employment
+
+**join** — to link or connect
+
+**joint** — a point at which parts of an artificial structure are joined
+
+**joke** — a thing that someone says to cause amusement or laughter
+
+**journal** — a newspaper or magazine that deals with a particular subject or professional activity
+
+**journey** — an act of traveling from one place to another
+
+**joy** — a feeling of great pleasure and happiness
+
+**judge** — a public official appointed to decide cases in a court of law
+
+**judgment** — the ability to make considered decisions or come to sensible conclusions
+
+**juice** — the liquid obtained from or present in fruit or vegetables
+
+**july** — the seventh month of the year, in the northern hemisphere
+
+**jump** — to push oneself off a surface and into the air by using the muscles in one's legs
+
+**june** — the sixth month of the year, in the northern hemisphere
+
+**jury** — a body of people sworn to give a verdict in a legal case on the basis of evidence submitted
+
+**just** — based on or behaving according to what is morally right and fair
+
+**justice** — just behavior or treatment
+
+**justify** — to show or prove to be right or reasonable
+
+**keen** — having or showing eagerness or enthusiasm
+
+**keep** — to have or retain possession of
+
+**key** — a small piece of shaped metal with incisions cut to fit the wards of a particular lock
+
+**kick** — to strike or propel forcibly with the foot
+
+**kid** — a child or young person
+
+**kill** — to cause the death of a living organism
+
+**kind** — a group of people or things having similar characteristics
+
+**king** — the male ruler of an independent state, especially one who inherits the position
+
+**kingdom** — a country, state, or territory ruled by a king or queen
+
+**kiss** — to touch with the lips as a sign of love, sexual desire, or greeting
+
+**kitchen** — a room or area where food is prepared and cooked
+
+**knee** — the joint between the thigh and the lower leg in humans
+
+**knife** — an instrument composed of a blade fixed into a handle, used for cutting
+
+**knock** — to strike a surface noisily to attract attention
+
+**know** — to be aware of through observation, inquiry, or information
+
+**knowledge** — facts, information, and skills acquired through experience or education
+
+**lab** — a laboratory
+
+**labor** — work, especially hard physical work
+
+**lack** — the state of being without or not having enough of something
+
+**ladder** — a set of steps with two parallel supports and horizontal rungs
+
+**lady** — a woman
+
+**lake** — a large body of water surrounded by land
+
+**lamp** — a device for giving light, either one consisting of an electric bulb
+
+**land** — the part of the earth's surface that is not covered by water
+
+**language** — the method of human communication, either spoken or written
+
+**large** — big; extensive in size or amount
+
+**last** — coming after all others in time or order
+
+**late** — doing something or taking place after the expected, proper, or usual time
+
+**lately** — recently; not long ago
+
+**later** — at a time in the near future; afterward
+
+**latest** — most recent; current
+
+**laugh** — to make the spontaneous sounds and movements of the face and body
+
+**law** — the system of rules that a particular country or community recognizes
+
+**lawyer** — a person who practices or studies law; an attorney or a counselor
+
+**lay** — to put down, especially gently or carefully
+
+**lead** — to cause a person or animal to go with one by holding them by the hand
+
+**leader** — the person who leads or commands a group, organization, or country
+
+**leadership** — the action of leading a group of people or an organization
+
+**leading** — guidance or leadership, especially in a spiritual context
+
+**leaf** — a flattened structure of a higher plant, typically green and blade-like
+
+**league** — a collection of people, countries, or groups that combine for mutual protection or cooperation
+
+**learn** — to gain or acquire knowledge of or skill in something by study, experience, or being taught
+
+**least** — smallest in amount, extent, or significance
+
+**leave** — to go away from
+
+**lecture** — an educational talk to an audience, especially to students in a university
+
+**left** — on, toward, or relating to the side of a human body or of a thing that is to the west
+
+**leg** — each of the limbs on which a person or animal walks and stands
+
+**legal** — permitted by law
+
+**legend** — a traditional story sometimes popularly regarded as historical but unauthenticated
+
+**legislation** — laws or the act of making or enacting laws
+
+**lemon** — a yellow, oval citrus fruit with thick skin and fragrant, acidic juice
+
+**lend** — to give something to someone for a short time, expecting it to be given back
+
+**length** — the measurement or extent of something from end to end
+
+**less** — a smaller amount of; not as much
+
+**lesson** — an amount of teaching given at one time; a period of learning or teaching
+
+**let** — to not prevent or forbid; allow
+
+**letter** — a written, typed, or printed communication, sent in an envelope by mail
+
+**level** — a horizontal plane or line with respect to the distance above or below a given point
+
+**library** — a building or room containing collections of books, periodicals, and sometimes films
+
+**license** — a permit from an authority to own or use something, do a particular thing, or carry on a trade
+
+**lie** — to be in or assume a horizontal or resting position on a supporting surface
+
+**life** — the condition that distinguishes animals and plants from inorganic matter
+
+**lift** — to raise to a higher position or level
+
+**light** — the natural agent that stimulates sight and makes things visible
+
+**like** — having the same characteristics or qualities as; similar to
+
+**likely** — such as well might happen or be true; probable
+
+**limit** — a point or level beyond which something does not or may not extend or pass
+
+**line** — a long, narrow mark or band
+
+**link** — a relationship between two things or situations, especially where one affects the other
+
+**lion** — a large, heavy, carnivorous, tawny-colored and white-muscled cat
+
+**lip** — either of the two fleshy parts that form the upper and lower edges of the opening of the mouth
+
+**liquid** — a substance that flows freely but is of constant volume, having a consistency like that of water or oil
+
+**list** — a number of connected items or names written or printed consecutively
+
+**listen** — to give one's attention to a sound
+
+**literature** — written works, especially those considered of superior or lasting artistic merit
+
+**little** — small in size, amount, or degree
+
+**live** — to remain alive
+
+**living** — an income sufficient to live on or the means of earning it
+
+**load** — a heavy or bulky thing that is being carried or is about to be carried
+
+**local** — belonging to or relating to a particular area or neighborhood
+
+**location** — a particular place or position
+
+**lock** — a mechanism for keeping a door, lid, etc., fastened
+
+**lonely** — sad because one has no friends or company
+
+**long** — measuring a great distance from end to end
+
+**look** — to direct one's gaze toward someone or something or in a specified direction
+
+**loose** — not firmly or tightly fixed in place; detached or able to be detached
+
+**lose** — to be deprived of or cease to have or retain something
+
+**loss** — the fact or process of losing something or someone
+
+**lot** — a particular group, collection, or set of people or things
+
+**loud** — producing or capable of producing much noise; easily audible
+
+**love** — an intense feeling of deep affection
+
+**lovely** — exquisitely beautiful
+
+**low** — of less than average height from top to bottom or to the top from the ground
+
+**luck** — success or failure apparently brought by chance rather than through one's own actions
+
+**lucky** — having, bringing, or resulting from good luck
+
+**lunch** — a meal eaten in the middle of the day, typically one that is lighter or less formal than dinner
+
+**machine** — an apparatus using mechanical power and having several parts, each with a definite function
+
+**machinery** — machines or machine systems collectively
+
+**mad** — mentally ill; insane
+
+**magazine** — a periodical publication containing articles and illustrations
+
+**magic** — the power of apparently influencing the course of events by using mysterious forces
+
+**mail** — letters and packages conveyed by the postal system
+
+**main** — chief in size or importance
+
+**maintain** — to cause or enable a condition or state of affairs to continue
+
+**major** — important, serious, or significant
+
+**majority** — the greater number
+
+**make** — to form something by putting parts together or combining substances
+
+**male** — of or denoting the sex that produces small, typically motile gametes, especially spermatozoa
+
+**man** — an adult human male
+
+**manage** — to be in charge of a business, organization, or undertaking
+
+**management** — the process of dealing with or controlling things or people
+
+**manager** — a person responsible for controlling or administering an organization or group of staff
+
+**manner** — a way in which a thing is done or happens
+
+**manufacture** — to make something on a large scale using machinery
+
+**many** — a large number of
+
+**map** — a diagrammatic representation of an area of land or sea showing physical features
+
+**march** — to walk in a military manner with a regular measured tread
+
+**margin** — an edge or border
+
+**mark** — a small area on a surface having a different color from its surroundings
+
+**market** — a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities
+
+**marriage** — the legally or formally recognized union of two people as partners in a personal relationship
+
+**married** — joined in marriage
+
+**marry** — to join in marriage
+
+**mass** — a large body of matter with no definite shape
+
+**master** — a man who has people working for him, especially servants or slaves
+
+**match** — a contest in which people or teams compete against each other in a particular sport
+
+**material** — the matter from which a thing is or can be made
+
+**mathematics** — the abstract science of number, quantity, and space
+
+**matter** — physical substance in general, as distinct from mind and spirit; that which occupies space
+
+**maximum** — as great, high, or intense as possible or permitted
+
+**may** — expressing possibility
+
+**maybe** — perhaps; possibly
+
+**mayor** — the elected head of a city, town, or other municipality
+
+**meal** — any of the occasions in a day when a reasonably large amount of food is eaten
+
+**mean** — to intend to convey, indicate, or refer to a particular thing or person
+
+**meaning** — what is meant by a word, text, concept, or action
+
+**means** — an action or system by which a result is achieved; a method
+
+**measure** — to ascertain the size, amount, or degree of something by using an instrument
+
+**measurement** — the action of measuring something
+
+**meat** — the flesh of an animal, typically a mammal or bird, as food
+
+**mechanic** — a skilled worker who repairs and maintains machinery
+
+**mechanical** — operated by a machine or machinery
+
+**mechanism** — a system of parts working together in a machine as a way of producing motion
+
+**medal** — a metal disk with an inscription or design, made to commemorate an event or awarded as a distinction
+
+**medical** — relating to the science or practice of medicine
+
+**medicine** — the science or practice of the diagnosis, treatment, and prevention of disease
+
+**medium** — an agency or means of doing something
+
+**meet** — to come into the presence or company of someone by chance or arrangement
+
+**meeting** — an assembly of people for a particular purpose, especially for formal discussion
+
+**member** — a person, animal, or plant belonging to a particular group
+
+**membership** — the fact of being a member of a group
+
+**memory** — the faculty by which the mind stores and remembers information
+
+**mental** — relating to the mind
+
+**mention** — to refer to something briefly and without going into detail
+
+**menu** — a list of dishes available in a restaurant
+
+**message** — a verbal, written, or recorded communication sent to or left for a recipient
+
+**metal** — a solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity
+
+**meter** — a device that measures and records the quantity, degree, or rate of something
+
+**method** — a particular form of procedure for accomplishing or approaching something, especially a systematic or established one
+
+**middle** — at an equal distance from the extremities of something; central
+
+**midnight** — twelve o'clock at night
+
+**might** — past of may, used especially in reported speech
+
+**mile** — a unit of linear measure equal to 1,760 yards
+
+**military** — relating to or characteristic of soldiers or armed forces
+
+**milk** — an opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young
+
+**mill** — a building equipped with machinery for grinding grain into flour
+
+**million** — the number equivalent to the product of a thousand and a thousand
+
+**mind** — the element of a person that enables them to be aware of the world and their experiences
+
+**mine** — used to refer to a thing or things belonging to or associated with the speaker
+
+**mineral** — a solid inorganic substance of natural occurrence
+
+**minimum** — the least or smallest amount or quantity possible, attainable, or required
+
+**minister** — a member of the clergy, especially in Protestant churches
+
+**minor** — lesser in importance, seriousness, or significance
+
+**minority** — the smaller number or part, especially a number that is less than half the whole number
+
+**minute** — a period of time equal to sixty seconds or a sixtieth of an hour
+
+**miss** — to fail to hit, reach, or come into contact with something aimed at
+
+**mission** — an important assignment carried out for political, religious, or commercial purposes, typically involving travel
+
+**mistake** — an action or judgment that is misguided or wrong
+
+**mix** — to combine or put together to form one substance or mass
+
+**mixture** — a substance made by mixing other substances together
+
+**mobile** — able to move or be moved freely or easily
+
+**model** — a three-dimensional representation of a person or thing or of a proposed structure
+
+**moderate** — average in amount, intensity, quality, or degree
+
+**modern** — relating to the present or recent times as opposed to the remote past
+
+**moment** — a very brief period of time
+
+**money** — a current medium of exchange in the form of coins and banknotes
+
+**monitor** — a device used for observing, checking, or keeping a continuous record of something
+
+**month** — each of the twelve named periods into which a year is divided
+
+**mood** — a temporary state of mind or feeling
+
+**moon** — the natural satellite of the earth, visible chiefly at night
+
+**moral** — concerned with the principles of right and wrong behavior and the goodness or badness of human character
+
+**more** — a greater or additional amount or degree of
+
+**moreover** — as a further matter; besides
+
+**morning** — the period of time from sunrise to noon
+
+**most** — greatest in amount, quantity, or degree
+
+**mostly** — as regards the greater part or number; mainly
+
+**mother** — a woman in relation to her child or children
+
+**motion** — the action or process of moving or being moved
+
+**motor** — a machine, especially one powered by electricity or internal combustion, that supplies motive power for a vehicle or for some other device with moving parts
+
+**mountain** — a large natural elevation of the earth's surface rising abruptly from the surrounding level
+
+**mouse** — a small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail
+
+**mouth** — the opening in the lower part of the human face, surrounded by the lips, through which food is taken in and vocal sounds are emitted
+
+**move** — to move in a specified direction or manner; change position
+
+**movement** — an act of moving
+
+**movie** — a story or event recorded by a camera as a set of moving images and shown in a theater or on television
+
+**much** — a great amount or quantity of
+
+**mud** — soft, sticky matter resulting from the mixing of earth and water
+
+**multiple** — having or involving several parts, elements, or members
+
+**murder** — the unlawful premeditated killing of one human being by another
+
+**muscle** — a band or bundle of fibrous tissue in a human or animal body that has the ability to contract
+
+**museum** — a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited
+
+**music** — vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony, and expression of emotion
+
+**musical** — relating to music
+
+**musician** — a person who plays a musical instrument or is musically talented
+
+**must** — be obliged to; should
+
+**mutual** — experienced or done by each of two or more parties toward the other or others
+
+**myself** — used by a speaker to refer to himself or herself as the object of a verb or preposition when he or she is also the subject
+
+**mystery** — something that is difficult or impossible to understand or explain
+
+**myth** — a traditional story, especially one concerning the early history of a people or explaining a natural or social phenomenon, and typically involving supernatural beings or events
+
+**nail** — a small metal spike with a broadened flat head, driven typically into wood with a hammer to join things together or to serve as a peg or hook
+
+**name** — a word or set of words by which a person, animal, place, or thing is known, addressed, or referred to
+
+**narrow** — of small width in relation to length
+
+**nation** — a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory
+
+**national** — of or relating to a nation; common to or characteristic of a whole nation
+
+**native** — a person born in a specified place or associated with a place by birth
+
+**natural** — existing in or caused by nature; not made or caused by humankind
+
+**nature** — the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations
+
+**naval** — of or relating to a navy or navies
+
+**navigation** — the process or activity of accurately ascertaining one's position and planning and following a route
+
+**near** — at or to a short distance away; close by
+
+**nearby** — close at hand; not far away
+
+**nearly** — very close to; almost
+
+**necessary** — required to be done, achieved, or present; needed; essential
+
+**neck** — the part of a person's or animal's body connecting the head to the rest of the body
+
+**need** — require something because it is essential or very important
+
+**needle** — a very fine slender piece of polished metal with a point at one end and a hole or eye for thread at the other, used in sewing
+
+**negative** — consisting in or characterized by the absence rather than the presence of distinguishing features
+
+**negotiate** — to try to reach an agreement or compromise by discussion with others
+
+**neighbor** — a person who lives near another
+
+**neither** — not the one nor the other of two people or things
+
+**nervous** — easily agitated or alarmed; tending to be anxious; highly strung
+
+**net** — a piece of open-meshed material made of twine, cord, or something similar, used typically for catching fish or other animals
+
+**network** — an arrangement of intersecting horizontal and vertical lines
+
+**never** — at no time in the past or future; not ever
+
+**nevertheless** — in spite of that; notwithstanding; all the same
+
+**new** — not existing before; made, introduced, or discovered recently or now for the first time
+
+**news** — newly received or noteworthy information, especially about recent or important events
+
+**newspaper** — a printed publication appearing at regular intervals, usually daily or weekly, consisting of folded unstapled sheets and containing news, feature articles, advertisements, and correspondence
+
+**next** — coming immediately after the present one in time, space, order, or sequence
+
+**nice** — pleasant; agreeable; satisfactory
+
+**night** — the period of darkness in each twenty-four hours; the time from sunset to sunrise
+
+**nine** — equivalent to the product of three and three; one more than eight, or four less than thirteen; 9
+
+**nineteen** — one more than eighteen; 19
+
+**ninety** — ten less than one hundred; 90
+
+**nobody** — no person; not anyone
+
+**nod** — to lower and raise one's head slightly and briefly, especially in greeting, assent, or understanding, or to give someone a signal
+
+**noise** — a sound, especially one that is loud or unpleasant or that causes disturbance
+
+**none** — not any
+
+**nor** — used before the second or further of two or more alternatives to indicate that they are each untrue or each do not happen
+
+**normal** — conforming to a standard; usual, typical, or expected
+
+**north** — the direction in which a compass needle normally points, toward the horizon on the left-hand side of a person facing east, or the part of the horizon lying in this direction
+
+**northern** — situated in the north, or directed toward or facing the north
+
+**nose** — the part projecting above the mouth on the face of a person or animal, containing the nostrils and used for breathing and smelling
+
+**not** — used with an auxiliary or modal verb to form a negative
+
+**note** — a brief record of facts, topics, or thoughts, written down as an aid to memory
+
+**nothing** — not anything; no single thing
+
+**notice** — the fact of observing or paying attention to something
+
+**novel** — a fictitious prose narrative of book length, typically representing character and action with some degree of realism
+
+**now** — at the present time or moment
+
+**nowhere** — not in or to any place; not anywhere
+
+**nuclear** — relating to or constituting the nucleus of an atom
+
+**number** — an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations
+
+**numerous** — great in number; many
+
+**nurse** — a person trained to care for the sick or infirm, especially in a hospital
+
+**nut** — a fruit consisting of a hard or tough shell around an edible kernel
+
+**object** — a material thing that can be seen and touched
+
+**objection** — an expression or feeling of disapproval or opposition; a reason for disagreeing
+
+**objective** — a thing aimed at or sought; a goal
+
+**obligation** — an act or course of action to which a person is morally or legally bound; a duty or commitment
+
+**observe** — to notice or perceive something and register it as being significant
+
+**obtain** — to get, acquire, or secure something
+
+**obvious** — easily perceived or understood; clear, self-evident, or apparent
+
+**occasion** — a particular event, or the time at which it takes place
+
+**occasionally** — at infrequent or irregular intervals; now and then
+
+**occupy** — to reside or have one's place of business in a building
+
+**occur** — to happen; take place
+
+**ocean** — a very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically
+
+**october** — the tenth month of the year, in the northern hemisphere usually considered the second month of autumn
+
+**odd** — different from what is usual or expected; strange
+
+**off** — away from the place in question; to or at a distance
+
+**offense** — a breach of a law or rule; an illegal act
+
+**offer** — to present or proffer something for someone to accept or reject as desired
+
+**office** — a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work
+
+**officer** — a person holding a position of authority, especially in the armed forces, police, or merchant navy
+
+**official** — relating to an authority or public body and its duties, actions, and responsibilities
+
+**often** — frequently; many times
+
+**oil** — a viscous liquid derived from petroleum, especially for use as a fuel or lubricant
+
+**okay** — used to express assent, agreement, or acceptance
+
+**old** — having lived for a long time; no longer young
+
+**once** — on one occasion or for one time only
+
+**one** — the lowest cardinal number; half of two; 1
+
+**only** — and no one or nothing more besides; solely
+
+**onto** — moving to a location on the surface of
+
+**open** — allowing access, passage, or a view through an empty space; not closed or blocked
+
+**operate** — to control the functioning of a machine, process, or system
+
+**operation** — the fact or condition of functioning or being active
+
+**operator** — a person who operates equipment or a machine
+
+**opinion** — a view or judgment formed about something, not necessarily based on fact or knowledge
+
+**opponent** — someone who competes with or opposes another in a contest, game, or argument
+
+**opportunity** — a set of circumstances that makes it possible to do something
+
+**oppose** — to disapprove of and attempt to prevent, especially by argument
+
+**opposite** — having a position on the other or further side of something; facing
+
+**optimistic** — hopeful and confident about the future
+
+**option** — a thing that is or may be chosen
+
+**orange** — a round juicy citrus fruit with a tough bright reddish-yellow rind
+
+**order** — the arrangement or disposition of people or things in relation to each other according to a particular sequence, pattern, or method
+
+**ordinary** — with no special or distinctive features; normal
+
+**organization** — an organized body of people with a particular purpose, especially a business, society, association, etc.
+
+**organize** — to arrange or form into a coherent unit or functional whole
+
+**origin** — the point or place where something begins, arises, or is derived
+
+**original** — present or existing from the beginning; first or earliest
+
+**other** — used to refer to a person or thing that is different or distinct from one already mentioned or known about
+
+**otherwise** — in circumstances different from those present or considered; or else
+
+**ought** — used to indicate duty or correctness, typically when criticizing someone's actions
+
+**ounce** — a unit of weight of one sixteenth of a pound avoirdupois (approximately 28 grams)
+
+**our** — belonging to or associated with the speaker and one or more other people previously mentioned or easily identified
+
+**ours** — used to refer to a thing or things belonging to or associated with the speaker and one or more other people previously mentioned
+
+**ourselves** — used as the object of a verb or preposition when this is the same as the subject of the clause and the subject is the speaker and one or more other people previously mentioned
+
+**out** — moving or appearing to move away from a particular place, especially one that is enclosed or hidden
+
+**outcome** — the way a thing turns out; a consequence
+
+**outdoor** — done, situated, or used out of doors
+
+**outside** — the external side or surface of something
+
+**outstanding** — exceptionally good
+
+**over** — extending directly upward from
+
+**overall** — taking everything into account
+
+**overcome** — to succeed in dealing with a problem or difficulty
+
+**owe** — to have an obligation to pay or repay something in return for something received
+
+**own** — used with a possessive to emphasize that someone or something belongs or relates to the person mentioned
+
+**owner** — a person who owns something
+
+**oxygen** — a colorless, odorless reactive gas, the chemical element of atomic number 8 and the life-supporting component of the air
+

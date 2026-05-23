@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>Neural Chan — Web Bridge</title>
+<style>
+  :root {
+    --crimson: #ff0033;
+    --crimson-dim: #330000;
+    --bg: #0a0a0a;
+    --panel: #111111;
+    --border: #1a1a1a;
+    --text: #e0e0e0;
+    --green: #00ff55;
+    --amber: #ffaa00;
+    --cyan: #00ccff;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+  html, body {
+    width:100%; height:100%;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Courier New", "DejaVu Sans Mono", monospace;
+    overflow: hidden;
+    display: flex; flex-direction: column;
+  }
+  #header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 10px 14px; background: var(--panel); border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  #header h1 {
+    font-size: 16px; color: var(--crimson); letter-spacing: 1px;
+  }
+  #conn-status {
+    font-size: 11px; padding: 3px 8px; border-radius: 4px;
+    background: var(--crimson-dim); color: var(--crimson); border: 1px solid var(--crimson);
+  }
+  #conn-status.connected { background: #003311; color: var(--green); border-color: var(--green); }
+  #main {
+    flex: 1; display: flex; flex-direction: column; overflow: hidden;
+  }
+  #kaomoji-panel {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    background: radial-gradient(circle at center, #140005 0%, #0a0a0a 70%);
+    border-bottom: 1px solid var(--border);
+    padding: 12px; position: relative; flex-shrink: 0;
+    min-height: 180px;
+  }
+  #kaomoji-face {
+    font-size: 80px; line-height: 1;
+    color: var(--crimson); text-shadow: 0 0 20px rgba(255,0,51,0.4);
+    transition: transform 0.15s ease;
+    user-select: none; cursor: pointer;
+  }
+  #kaomoji-face:active { transform: scale(0.92); }
+  #kaomoji-mood {
+    margin-top: 6px; font-size: 12px; color: var(--crimson);
+    letter-spacing: 2px; text-transform: uppercase;
+  }
+  #kaomoji-status {
+    position: absolute; top: 8px; left: 12px;
+    font-size: 10px; color: var(--green); letter-spacing: 1px;
+  }
+  #voice-bars {
+    display: flex; gap: 3px; margin-top: 8px; height: 18px; align-items: flex-end;
+  }
+  .vbar {
+    width: 4px; background: var(--crimson); border-radius: 1px;
+    opacity: 0.3; transition: height 0.1s, opacity 0.1s;
+  }
+  #stats-strip {
+    display: grid; grid-template-columns: repeat(4, 1fr);
+    background: var(--panel); border-bottom: 1px solid var(--border);
+    font-size: 11px; text-align: center; flex-shrink: 0;
+  }
+  .stat-box {
+    padding: 8px 4px; border-right: 1px solid var(--border);
+  }
+  .stat-box:last-child { border-right: none; }
+  .stat-label { color: #666; font-size: 9px; text-transform: uppercase; letter-spacing: 1px; }
+  .stat-value { color: var(--text); margin-top: 2px; font-weight: bold; }
+  #activity-row {
+    display: flex; justify-content: center; gap: 14px;
+    padding: 6px; background: var(--bg); border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  .led {
+    font-size: 10px; color: #333; transition: color 0.3s;
+    font-weight: bold; letter-spacing: 1px;
+  }
+  .led.active { color: var(--green); text-shadow: 0 0 6px var(--green); }
+  #cli-area {
+    flex: 1; display: flex; flex-direction: column; overflow: hidden;
+    background: var(--bg);
+  }
+  #cli-output {
+    flex: 1; overflow-y: auto; padding: 10px 12px;
+    font-size: 12px; line-height: 1.5;
+    scroll-behavior: smooth;
+  }
+  .cli-line { margin-bottom: 6px; word-break: break-word; }
+  .cli-line .ts { color: #444; font-size: 10px; margin-right: 6px; }
+  .cli-line .tag { font-weight: bold; margin-right: 4px; }
+  .cli-line .tag.user { color: var(--cyan); }
+  .cli-line .tag.bot { color: var(--crimson); }
+  .cli-line .tag.sys { color: var(--amber); }
+  .cli-line .tag.err { color: #ff4444; }
+  #input-bar {
+    display: flex; gap: 6px; padding: 8px 10px;
+    background: var(--panel); border-top: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  #cmd-input {
+    flex: 1; background: #1a1a1a; border: 1px solid #333; border-radius: 6px;
+    color: var(--text); font-family: inherit; font-size: 13px;
+    padding: 8px 10px; outline: none;
+  }
+  #cmd-input:focus { border-color: var(--crimson); }
+  #send-btn {
+    background: var(--crimson-dim); color: var(--crimson); border: 1px solid var(--crimson);
+    border-radius: 6px; padding: 0 16px; font-family: inherit; font-size: 12px;
+    font-weight: bold; cursor: pointer;
+  }
+  #send-btn:active { background: var(--crimson); color: #000; }
+  #quick-actions {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px;
+    padding: 8px 10px; background: var(--panel);
+    border-top: 1px solid var(--border); flex-shrink: 0;
+  }
+  .qbtn {
+    background: #1a1a1a; border: 1px solid #333; border-radius: 5px;
+    color: var(--text); font-family: inherit; font-size: 10px;
+    padding: 8px 2px; cursor: pointer; text-transform: uppercase; letter-spacing: 1px;
+  }
+  .qbtn:active { border-color: var(--crimson); color: var(--crimson); }
+  .qbtn.warn { border-color: #550000; color: #ff4444; }
+  .qbtn.warn:active { background: #550000; }
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
+  @supports(padding: max(0px)) {
+    #header { padding-top: max(10px, env(safe-area-inset-top)); }
+    #input-bar { padding-bottom: max(8px, env(safe-area-inset-bottom)); }
+  }
+</style>
+</head>
+<body>
+
+<div id="header">
+  <h1>◕‿◕ NEURAL CHAN</h1>
+  <div id="conn-status">OFFLINE</div>
+</div>
+
+<div id="main">
+  <div id="kaomoji-panel">
+    <div id="kaomoji-status">SYSTEM ONLINE</div>
+    <div id="kaomoji-face">◕‿◕</div>
+    <div id="kaomoji-mood">CALM</div>
+    <div id="voice-bars"></div>
+  </div>
+
+  <div id="stats-strip">
+    <div class="stat-box"><div class="stat-label">CPU</div><div class="stat-value" id="stat-cpu">--</div></div>
+    <div class="stat-box"><div class="stat-label">MEM</div><div class="stat-value" id="stat-mem">--</div></div>
+    <div class="stat-box"><div class="stat-label">PROF</div><div class="stat-value" id="stat-prof">--</div></div>
+    <div class="stat-box"><div class="stat-label">WORDS</div><div class="stat-value" id="stat-words">--</div></div>
+  </div>
+
+  <div id="activity-row">
+    <span class="led" id="led-det">DET</span>
+    <span class="led" id="led-tix">TIX</span>
+    <span class="led" id="led-fix">FIX</span>
+    <span class="led" id="led-tst">TST</span>
+    <span class="led" id="led-lrn">LRN</span>
+    <span class="led" id="led-cor">COR</span>
+  </div>
+
+  <div id="cli-area">
+    <div id="cli-output">
+      <div class="cli-line"><span class="ts">--:--</span><span class="tag sys">[SYS]</span> Neural Chan Web Bridge v1.0</div>
+      <div class="cli-line"><span class="ts">--:--</span><span class="tag sys">[SYS]</span> Touch the face to cycle mood. Type commands below.</div>
+    </div>
+  </div>
+
+  <div id="quick-actions">
+    <button class="qbtn" onclick="sendCmd('hello')">Hello</button>
+    <button class="qbtn" onclick="sendCmd('detect')">Detect</button>
+    <button class="qbtn" onclick="sendCmd('auto')">Auto</button>
+    <button class="qbtn" onclick="sendCmd('stats')">Stats</button>
+    <button class="qbtn" onclick="sendCmd('system')">System</button>
+    <button class="qbtn" onclick="sendCmd('search kali tools')">Search</button>
+    <button class="qbtn" onclick="sendCmd('export')">Export</button>
+    <button class="qbtn warn" onclick="sendCmd('stop')">HALT</button>
+  </div>
+
+  <div id="input-bar">
+    <input type="text" id="cmd-input" placeholder="Type command..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+    <button id="send-btn" onclick="submitInput()">SEND</button>
+  </div>
+</div>
+
+<script>
+  const WS_URL = 'ws://' + (location.host || '192.168.0.80:5757') + '/ws';
+  const FACES = {
+    Calm:'◕‿◕', Alert:'◕_◕', Working:'◕▂◕', Learning:'◕⩊◕',
+    Concerned:'◕︿◕', Happy:'◕‿◕✧', Thinking:'◕‿◉', Offline:'◕_◕'
+  };
+  const face = document.getElementById('kaomoji-face');
+  const moodLabel = document.getElementById('kaomoji-mood');
+  const statusBadge = document.getElementById('conn-status');
+  const cli = document.getElementById('cli-output');
+  const input = document.getElementById('cmd-input');
+  const voiceBars = document.getElementById('voice-bars');
+  for(let i=0;i<<14;i++){
+    const b=document.createElement('div'); b.className='vbar'; b.style.height='4px'; voiceBars.appendChild(b);
+  }
+  let ws = null;
+  let reconnectTimer = null;
+  let speaking = false;
+
+  function connect() {
+    try {
+      ws = new WebSocket(WS_URL);
+      ws.onopen = () => {
+        statusBadge.textContent = 'ONLINE';
+        statusBadge.classList.add('connected');
+        log('SYS', 'Connected to Neural Chan Bridge');
+        setFace('Calm');
+      };
+      ws.onmessage = (ev) => {
+        try {
+          const msg = JSON.parse(ev.data);
+          handleMessage(msg);
+        } catch(e) { log('ERR', ev.data); }
+      };
+      ws.onclose = () => {
+        statusBadge.textContent = 'OFFLINE';
+        statusBadge.classList.remove('connected');
+        log('SYS', 'Disconnected. Retrying...');
+        setFace('Offline');
+        reconnectTimer = setTimeout(connect, 3000);
+      };
+      ws.onerror = (e) => { log('ERR', 'WebSocket error'); };
+    } catch(e) {
+      log('ERR', 'Failed to connect: ' + e.message);
+      reconnectTimer = setTimeout(connect, 5000);
+    }
+  }
+
+  function handleMessage(msg) {
+    if (msg.type === 'response') {
+      log('BOT', msg.text);
+      setFace(msg.mood || 'Calm');
+      updateStats(msg);
+      if (msg.new_words && msg.new_words.length) {
+        log('SYS', 'Learned words: ' + msg.new_words.join(', '));
+      }
+    } else if (msg.type === 'stats') {
+      const d = msg.data || {};
+      document.getElementById('stat-prof').textContent = (d.proficiency || 0) + '%';
+      document.getElementById('stat-words').textContent = d.words_learned || 0;
+      log('SYS', 'Stats — Proficiency: ' + (d.proficiency||0) + '% | Words: ' + (d.words_learned||0) + ' | Chats: ' + (d.conversations||0) + ' | Mood: ' + (d.mood||'?'));
+    } else if (msg.type === 'sysinfo') {
+      const d = msg.data || {};
+      document.getElementById('stat-cpu').textContent = (d.cpu_percent || 0) + '%';
+      document.getElementById('stat-mem').textContent = (d.mem_percent || 0) + '%';
+      log('SYS', 'CPU ' + (d.cpu_percent||0) + '% | MEM ' + (d.mem_percent||0) + '% | Load ' + (d.load_1m||0) + ' | Procs ' + (d.processes||0));
+    } else if (msg.type === 'event') {
+      log('SYS', msg.msg);
+      setFace(msg.mood || 'Working');
+    } else if (msg.type === 'export') {
+      log('SYS', 'Exported ' + (msg.files || []).length + ' memory files');
+    } else if (msg.type === 'search') {
+      const r = msg.result || {};
+      log('BOT', 'Search: ' + (r.summary || 'No results'));
+    } else if (msg.type === 'connected') {
+      log('SYS', msg.msg);
+    }
+  }
+
+  function sendCmd(text) {
+    if (!ws || ws.readyState !== WebSocket.OPEN) {
+      log('ERR', 'Not connected. Retry in 3s...');
+      return;
+    }
+    log('USER', text);
+    ws.send(JSON.stringify({ cmd: 'chat', text: text }));
+    triggerSpeaking();
+  }
+
+  function submitInput() {
+    const val = input.value.trim();
+    if (!val) return;
+    sendCmd(val);
+    input.value = '';
+  }
+
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') submitInput();
+  });
+
+  function setFace(mood) {
+    const f = FACES[mood] || FACES.Calm;
+    face.textContent = f;
+    moodLabel.textContent = (mood || 'CALM').toUpperCase();
+  }
+
+  face.addEventListener('click', () => {
+    const moods = Object.keys(FACES).filter(k => k !== 'Offline');
+    const current = moodLabel.textContent;
+    let idx = moods.findIndex(m => m.toUpperCase() === current);
+    if (idx < 0) idx = 0;
+    const next = moods[(idx + 1) % moods.length];
+    setFace(next);
+    sendCmd('mood ' + next);
+  });
+
+  function triggerSpeaking() {
+    speaking = true;
+    setTimeout(() => { speaking = false; }, 2000);
+  }
+  setInterval(() => {
+    const bars = voiceBars.children;
+    for (let i = 0; i < bars.length; i++) {
+      if (speaking) {
+        const h = Math.floor(Math.random() * 16) + 2;
+        bars[i].style.height = h + 'px';
+        bars[i].style.opacity = '0.9';
+      } else {
+        const h = Math.max(2, Math.floor(4 + 3 * Math.sin(Date.now() / 300 + i)));
+        bars[i].style.height = h + 'px';
+        bars[i].style.opacity = '0.3';
+      }
+    }
+  }, 100);
+
+  function log(tag, text) {
+    const line = document.createElement('div');
+    line.className = 'cli-line';
+    const now = new Date();
+    const ts = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0');
+    line.innerHTML = '<span class="ts">' + ts + '</span><span class="tag ' + tag.toLowerCase() + '">[' + tag + ']</span>' + escapeHtml(text);
+    cli.appendChild(line);
+    cli.scrollTop = cli.scrollHeight;
+    while (cli.children.length > 100) cli.removeChild(cli.firstChild);
+  }
+
+  function escapeHtml(s) {
+    const d = document.createElement('div');
+    d.textContent = s; return d.innerHTML;
+  }
+
+  function updateStats(msg) {
+    if (msg.proficiency != null) document.getElementById('stat-prof').textContent = msg.proficiency + '%';
+    if (msg.words_learned != null) document.getElementById('stat-words').textContent = msg.words_learned;
+  }
+
+  function setLed(id, active) {
+    const el = document.getElementById('led-' + id);
+    if (el) el.classList.toggle('active', active);
+  }
+  setInterval(() => {
+    const ids = ['det','tix','fix','tst','lrn','cor'];
+    ids.forEach(id => setLed(id, Math.random() > 0.7));
+  }, 800);
+
+  connect();
+  log('SYS', 'Web UI loaded. Waiting for bridge...');
+</script>
+</body>
+</html>

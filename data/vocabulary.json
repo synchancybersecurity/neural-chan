@@ -1,5 +1,5 @@
 {
-  "words_learned": 16,
+  "words_learned": 17,
   "phrases_known": [
     "hello",
     "today",
@@ -16,15 +16,16 @@
     "english",
     "search",
     "store",
-    "memory"
+    "memory",
+    "having"
   ],
   "user_preferences": {},
   "topics_discussed": [],
-  "speech_proficiency": 1.8000000000000003,
-  "total_conversations": 27,
+  "speech_proficiency": 1.8500000000000003,
+  "total_conversations": 30,
   "personality_traits": {
-    "friendly": 0.52,
-    "analytical": 0.5,
+    "friendly": 0.54,
+    "analytical": 0.51,
     "aggressive": 0.0,
     "humorous": 0.3
   }

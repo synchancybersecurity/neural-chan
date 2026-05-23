@@ -1,28 +1,5 @@
 [
   {
-    "time": "2026-05-23T14:47:07.173657",
-    "user": "how are you",
-    "intent": "status",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T14:47:39.272812",
-    "user": "ssay im nuero chan",
-    "intent": "speak",
-    "new_words": [
-      "nuero"
-    ]
-  },
-  {
-    "time": "2026-05-23T14:48:04.178312",
-    "user": "learn new words",
-    "intent": "learning",
-    "new_words": [
-      "learn",
-      "words"
-    ]
-  },
-  {
     "time": "2026-05-23T14:48:43.819461",
     "user": "learn your name is synchan",
     "intent": "greeting",
@@ -139,5 +116,25 @@
     "user": "google english",
     "intent": "resume",
     "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:05:24.313029",
+    "user": "hi",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:05:29.518136",
+    "user": "how are you",
+    "intent": "status",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:05:45.048264",
+    "user": "are you having a good day?",
+    "intent": "resume",
+    "new_words": [
+      "having"
+    ]
   }
 ]

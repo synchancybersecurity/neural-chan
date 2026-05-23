@@ -1,0 +1,163 @@
+# NTC's Super Mini English Dictionary — starter extract
+# Format: word | definition
+# Paste the full dictionary text below this line, one entry per line
+
+abandon | to leave completely and finally; forsake utterly
+ability | the quality of being able to do something
+absent | not in a certain place at a given time
+absolute | free from restriction or limitation; total
+absorb | to suck up or drink in
+abstract | thought of apart from concrete realities
+abundant | present in great quantity; plentiful
+academy | a school or college for special instruction
+accelerate | to cause faster development or progress
+accent | prominence of a syllable in terms of pitch or stress
+accept | to take or receive something willingly
+access | the ability to enter or approach
+accident | an undesirable or unfortunate happening
+accompany | to go along with; attend
+accomplish | to bring to completion; achieve
+accord | to be in agreement or harmony
+account | a description of events or experiences
+accurate | free from error or defect; precise
+accuse | to charge with a fault or offense
+achieve | to bring to a successful end; accomplish
+acid | a compound usually having a sour taste
+acknowledge | to admit to be real or true; recognize
+acquire | to come into possession of; get
+across | from one side to the other
+act | anything done or to be done; deed
+action | the process or state of acting
+active | engaged in action; characterized by energetic work
+actor | a person who acts in stage plays or movies
+actual | existing in act or fact; real
+adapt | to adjust oneself to different conditions
+add | to unite or join so as to increase the number
+address | a speech or written statement delivered to an audience
+adequate | sufficient for a specific requirement
+adjust | to change so as to match or fit
+administration | the management of any office or organization
+admire | to regard with wonder, pleasure, or approval
+admit | to allow to enter; grant entrance
+adopt | to choose or take as one's own
+advance | to move or bring forward
+advantage | any state or circumstance favorable to success
+adventure | an exciting or very unusual experience
+advertise | to announce or praise in public media
+advice | an opinion or recommendation offered as a guide
+affair | anything done or to be done; business
+affect | to act on; produce an effect or change
+afford | to be able to do or spare something
+afraid | feeling fear; frightened
+after | behind in place or order; next to
+afternoon | the part of the day between noon and evening
+again | once more; another time
+against | in opposition to; contrary to
+age | the length of time during which a being has existed
+agency | an organization or company that provides a service
+agent | a person who acts on behalf of another
+agree | to have the same views or opinions
+agriculture | the science or occupation of cultivating land
+ahead | in or to the front; forward
+aid | to provide support or assistance
+aim | to direct a course or specific purpose
+air | the invisible mixture of gases surrounding the earth
+aircraft | any machine capable of flying
+airline | a system of transporting people by air
+airplane | a heavier-than-air aircraft kept aloft by wings
+airport | a place where aircraft land and take off
+alarm | a sudden fear or distressing suspense
+alcohol | a colorless volatile flammable liquid
+alive | having life; living; not dead
+all | the whole of; every one of
+allow | to permit or let
+almost | very nearly; not quite
+alone | separate from others; solitary
+along | through the length of; in the course of
+already | by this or a specified time
+also | in addition; too; besides
+although | in spite of the fact that
+always | at all times; on every occasion
+amaze | to overwhelm with surprise or sudden wonder
+amount | the sum total of two or more quantities
+amuse | to entertain with laughter or interesting activity
+analyze | to separate into parts or basic principles
+ancient | of or in time long past
+anger | a strong feeling of displeasure and belligerence
+angle | the space within two lines diverging from a point
+angry | feeling or showing anger
+animal | any member of the kingdom Animalia
+announce | to make known publicly or officially
+annual | of or for a year; yearly
+another | being one more or more of the same
+answer | a spoken or written reply or response
+anticipate | to realize beforehand; foretaste or foresee
+anxiety | distress or uneasiness of mind caused by fear
+anxious | full of mental distress or uneasiness
+any | one of a group, without specification
+anyone | any person at all
+anything | any thing whatever; something, no matter what
+anyway | in any manner or way
+anywhere | in or to any place
+apart | into pieces or parts; to pieces
+apartment | a room or a group of related rooms
+apologize | to offer an apology or excuse
+apparent | readily seen or understood; obvious
+appear | to come into sight; become visible
+appearance | the act or fact of appearing
+apple | the usually round red or yellow edible fruit
+application | the act of putting to a special use or purpose
+apply | to make use of as relevant or suitable
+appoint | to name or assign to a position
+appointment | a fixed mutual agreement for a meeting
+appreciate | to be grateful or thankful for
+approach | to come near or nearer to
+appropriate | suitable or fitting for a particular purpose
+approve | to speak or think favorably of
+architect | a person who designs buildings
+area | any particular extent of space or surface
+argue | to present reasons for or against a thing
+arise | to get up from sitting or lying; rise
+arm | the upper limb of the human body
+army | a large body of persons trained and armed for war
+around | on all sides; in every direction
+arrange | to place in proper order; dispose
+arrest | to seize and hold by legal authority
+arrive | to come to a certain point in the course of travel
+art | the quality or expression of what is beautiful
+article | a written composition on a specific subject
+artist | a person who produces works of art
+as | to the same degree or extent; equally
+ash | the powdery residue of matter that remains after burning
+aside | on or to one side; away from the main subject
+ask | to put a question to; inquire of
+asleep | in or into a state of sleep
+aspect | the appearance of something to the eye or mind
+assist | to give support or aid to
+assistance | help or support
+associate | to connect or bring into relation in thought
+assume | to take for granted or without proof
+assure | to declare earnestly or confidently to
+at | in or near the area occupied by; in the direction of
+athlete | a person trained in exercises or games requiring skill
+atmosphere | the gaseous envelope surrounding the earth
+attach | to fasten or join one thing to another
+attack | to set upon with violent force
+attempt | to make an effort at; try
+attend | to be present at
+attention | the act or faculty of concentrating mentally
+attitude | manner or feeling shown in posture or expression
+attract | to draw by appeal to natural interest or emotion
+audience | the group of spectators at a public event
+author | a person who writes a novel, poem, or essay
+authority | the power to determine or settle issues
+automatic | having the capability of starting or operating itself
+automobile | a passenger vehicle designed for operation on roads
+available | suitable or ready for use; accessible
+average | a quantity intermediate to a set of quantities
+avoid | to keep away from; keep clear of
+awake | to wake up; rouse from sleep
+award | to give as due or merited; assign
+aware | having knowledge of something
+away | from this or that place; off
+awful | extremely bad; unpleasant; disagreeable

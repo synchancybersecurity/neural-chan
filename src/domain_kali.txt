@@ -1,0 +1,92 @@
+# KALI LINUX MASTERY & SYSTEM INTERNALS
+# Format: term | definition
+
+apt | advanced package tool; a free-software user interface that works with core libraries to handle software installation
+aptitude | a front-end to apt that provides a more user-friendly interface for package management
+apt-get | a command-line tool for handling packages on Debian-based systems including Kali Linux
+arp | address resolution protocol; a communication protocol used for discovering the link layer address associated with a given internet layer address
+awk | a domain-specific language designed for text processing and typically used as a data extraction and reporting tool
+bash | bourne again shell; the default command-line shell on Kali Linux and most Linux distributions
+binwalk | a tool for searching a given binary image for embedded files and executable code
+blkid | a command-line utility to locate and print block device attributes
+chroot | an operation that changes the apparent root directory for the current running process and its children
+cron | a time-based job scheduler in Unix-like computer operating systems
+crontab | a file containing instructions for the cron daemon to execute at specified times
+curl | a command-line tool for transferring data with URLs supporting various protocols
+debian | a Unix-like operating system consisting entirely of free software; the base of Kali Linux
+df | disk free; a command to display the amount of available disk space for file systems
+dmesg | display message or driver message; a command that prints the message buffer of the kernel
+dpkg | debian package; the software at the base of the package management system in Debian
+elf | executable and linkable format; a common standard file format for executable files and shared libraries
+ethtool | a utility for controlling network drivers and hardware, particularly wired Ethernet devices
+fdisk | a command-line utility that provides disk partitioning functions
+find | a command-line utility that searches one or more directory trees of a file system
+firewalld | a firewall management tool for Linux operating systems
+free | a command that displays the total amount of free and used physical and swap memory
+gcc | gnu compiler collection; a compiler system supporting various programming languages
+gdb | gnu debugger; a portable debugger that runs on many Unix-like systems
+grep | global regular expression print; a command-line utility for searching plain-text data sets
+grub | grand unified bootloader; a boot loader package from the GNU project
+htop | an interactive process viewer for Unix systems, an enhanced version of top
+ifconfig | interface configuration; a system administration utility for network interface configuration
+init | the first process started during booting of the computer system
+iptables | a user-space utility program that allows a system administrator to configure the IP packet filter rules
+journalctl | a utility for querying and displaying logs from journald, systemd's logging service
+kali | a Debian-derived Linux distribution designed for digital forensics and penetration testing
+kernel | the core component of an operating system with complete control over everything in the system
+kill | a command used to send a signal to a process, typically to terminate it
+ldd | list dynamic dependencies; a command that prints the shared libraries required by each program
+lsof | list open files; a command meaning list open files, which are used by running processes
+lsusb | list USB devices; a utility for displaying information about USB buses and devices
+make | a build automation tool that automatically builds executable programs and libraries from source code
+man | manual pages; the form of online software documentation found on Unix and Unix-like operating systems
+modprobe | a program that adds a loadable kernel module to the Linux kernel or removes one
+mount | to make a file system available for access at a certain point in the directory tree
+netstat | a command-line network utility that displays network connections for TCP, routing tables, and interface statistics
+nftables | the successor to iptables, a netfilter project that provides packet filtering and NAT
+nmap | network mapper; a free and open-source utility for network discovery and security auditing
+nmcli | a command-line tool for controlling NetworkManager and reporting network status
+nslookup | a network administration command-line tool for querying the Domain Name System
+passwd | a command used to change the password of a user account
+pci | peripheral component interconnect; a local computer bus for attaching hardware devices
+pid | process identifier; a unique number assigned by the operating system to each running process
+proc | a special filesystem in Unix-like operating systems that presents information about processes
+ps | process status; a command used to display information about running processes
+python3 | the default Python interpreter on Kali Linux, version 3.x
+rfkill | a tool for enabling and disabling wireless devices
+route | a command used to view and manipulate the IP routing table
+sed | stream editor; a Unix utility that parses and transforms text using a simple programming language
+selinux | security-enhanced linux; a Linux kernel security module providing a mechanism for supporting access control
+service | a command to run a System V init script used to start, stop, and restart services
+shell | a program that provides a command-line interface to the operating system
+snap | a software packaging and deployment system developed by Canonical for operating systems using the Linux kernel
+socket | an endpoint for sending or receiving data across a computer network
+ssh | secure shell; a cryptographic network protocol for operating network services securely
+strace | a diagnostic, debugging, and instructional userspace utility for Linux
+sudo | superuser do; a program that allows users to run programs with the security privileges of another user
+sysctl | a command used to modify kernel parameters at runtime
+systemctl | a command to introspect and control the state of the systemd system and service manager
+systemd | a system and service manager for Linux operating systems
+tar | tape archive; a command used to create and manipulate archive files
+tcpdump | a common packet analyzer that runs under the command line
+terminator | a terminal emulator supporting multiple terminals in a single window
+tmux | a terminal multiplexer allowing multiple terminal sessions to be accessed simultaneously
+top | a command that provides a dynamic real-time view of running system processes
+tor | the onion router; free and open-source software for enabling anonymous communication
+traceroute | a computer network diagnostic command for displaying the route and measuring transit delays
+ufw | uncomplicated firewall; a program for managing a netfilter firewall
+uname | unix name; a command that prints system information about the computer
+update-rc.d | a command to install or remove System-V style init script links
+usb | universal serial bus; an industry standard for short-distance digital data communications
+useradd | a command used to create a new user account or update default new user information
+usermod | a command that modifies a user account on the system
+vim | vi improved; a highly configurable text editor built to enable efficient text editing
+virtualbox | a free and open-source hosted hypervisor for x86 virtualization
+vmware | a subsidiary of Dell Technologies that provides cloud computing and platform virtualization software
+wget | a computer program that retrieves content from web servers
+which | a command that identifies the location of executables
+whoami | a command that prints the effective username of the current user
+wireshark | a free and open-source packet analyzer used for network troubleshooting
+x11 | the X Window System; a windowing system for bitmap displays common on Unix-like operating systems
+xargs | a command on Unix and most Unix-like operating systems used to build and execute commands from standard input
+zsh | z shell; an extended Bourne shell with many improvements including some features of bash and ksh

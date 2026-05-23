@@ -1,0 +1,59 @@
+# PROGRAMMING LANGUAGES DEEP DIVE
+# Format: term | definition
+
+assembly x86 | a family of backward-compatible instruction set architectures based on the Intel 8086 CPU
+assembly arm | a reduced instruction set computing architecture for computer processors
+bash scripting | writing programs in the Bourne Again Shell for automating tasks in Unix-like systems
+c language | a general-purpose, procedural computer programming language supporting structured programming
+c++ | a general-purpose programming language created as an extension of the C programming language
+c# | a modern, object-oriented, and type-safe programming language developed by Microsoft
+class python | a blueprint for creating objects providing initial values for state and implementations of behavior
+decorator python | a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure
+django | a high-level Python web framework that encourages rapid development and clean, pragmatic design
+exception handling | the process of responding to the occurrence of exceptions during computation
+flask | a micro web framework written in Python based on Werkzeug and Jinja2
+function python | a block of organized, reusable code that is used to perform a single related action
+go | a statically typed, compiled programming language designed at Google
+inheritance python | a mechanism in which one class acquires the property of another class
+java | a class-based, object-oriented programming language designed to have as few implementation dependencies as possible
+javascript | a programming language that is one of the core technologies of the World Wide Web
+jquery | a fast, small, and feature-rich JavaScript library
+json parsing | the process of converting a JSON string into a native data structure
+kotlin | a cross-platform, statically typed, general-purpose programming language with type inference
+lambda python | an anonymous function expressed as a single statement that can be used wherever function objects are required
+list comprehension | a concise way to create lists in Python based on existing lists
+lua | a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use
+module python | a file containing Python definitions and statements intended for use in other Python programs
+mongodb | a source-available cross-platform document-oriented database program
+node.js | an open-source, cross-platform, back-end JavaScript runtime environment
+numpy | a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices
+object python | an instance of a class in Python containing data and methods
+pandas | a software library written for the Python programming language for data manipulation and analysis
+perl | a family of high-level, general-purpose, interpreted, dynamic programming languages
+php | a general-purpose scripting language geared toward web development
+pip | a package-management system written in Python used to install and manage software packages
+postgresql | a free and open-source relational database management system emphasizing extensibility
+powershell | a task automation and configuration management framework from Microsoft
+pyqt | a set of Python bindings for Qt libraries which can be used to create GUI applications
+python | a high-level, general-purpose programming language with an emphasis on code readability
+python asyncio | a library to write concurrent code using the async/await syntax
+python dict | a mutable, associative array data type in Python consisting of key-value pairs
+python flask | a micro web framework written in Python
+python list | a mutable, ordered sequence of elements in Python
+python oop | object-oriented programming in Python using classes and objects
+python pandas | a fast, powerful, flexible and easy to use open source data analysis and manipulation tool
+python requests | an elegant and simple HTTP library for Python, built for human beings
+python scapy | a powerful Python-based interactive packet manipulation program and library
+python socket | a way of connecting two nodes on a network to communicate with each other
+python threading | a module that constructs higher-level threading interfaces on top of the lower level _thread module
+python tkinter | the standard Python library for creating graphical user interfaces
+python tuple | an immutable, ordered sequence of elements in Python
+react | a free and open-source front-end JavaScript library for building user interfaces based on UI components
+regex python | a sequence of characters that forms a search pattern, implemented via the re module
+ruby | a dynamic, open source programming language with a focus on simplicity and productivity
+rust | a multi-paradigm, general-purpose programming language designed for performance and safety
+scala | a strong statically typed general-purpose programming language supporting both object-oriented and functional programming
+sql injection | a code injection technique that might destroy your database
+sql query | a request for data or information from a database table or combination of tables
+swift | a general-purpose, multi-paradigm, compiled programming language developed by Apple
+typescript | a strict syntactical superset of JavaScript and adds optional static typing to the language

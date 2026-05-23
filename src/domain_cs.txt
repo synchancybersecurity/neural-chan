@@ -1,0 +1,130 @@
+# COMPUTER SCIENCE & SOFTWARE ENGINEERING
+# Format: term | definition
+
+abstraction | the process of removing physical, spatial, or temporal details to focus on essential features
+agile | a set of principles for software development under which requirements and solutions evolve through collaboration
+api | application programming interface; a set of protocols and tools for building software applications
+array | a data structure consisting of a collection of elements, each identified by at least one array index
+assembler | a program that converts assembly language into machine code
+assembly | a low-level programming language with a strong correspondence between instructions and machine architecture
+async | a programming pattern that allows multiple operations to run concurrently without blocking execution
+backend | the server-side part of a software application that handles data storage, business logic, and processing
+big o notation | a mathematical notation describing the limiting behavior of a function when the argument tends toward infinity
+binary | a numbering system with base 2 using only digits 0 and 1
+binary search | a search algorithm that finds the position of a target value within a sorted array
+bit | the basic unit of information in computing and digital communications
+boolean | a data type with two possible values representing true and false
+breakpoint | an intentional stopping or pausing place in a program put in place for debugging purposes
+buffer | a region of physical memory storage used to temporarily store data while it is being moved
+bug | an error, flaw, or fault in a computer program or system that causes it to produce incorrect results
+byte | a unit of digital information that most commonly consists of eight bits
+cache | a hardware or software component that stores data so future requests can be served faster
+call stack | a stack data structure that stores information about active subroutines of a computer program
+class | a template for creating objects in object-oriented programming, providing initial values and implementations
+closure | a function bundled together with references to its surrounding state
+compiler | a computer program that translates computer code written in one programming language into another
+complexity | the amount of resources required for a computer to solve a problem
+concurrency | the ability of different parts or units of a program to be executed out-of-order or in partial order
+cpu | central processing unit; the electronic circuitry within a computer that carries out instructions
+cryptography | the practice and study of techniques for secure communication in the presence of adversaries
+daemon | a computer program that runs as a background process rather than being under direct control of a user
+database | an organized collection of data stored and accessed electronically
+data structure | a data organization, management, and storage format that enables efficient access and modification
+deadlock | a state in which each member of a group is waiting for another member to take action
+debugging | the process of finding and resolving defects or problems within a computer program
+dependency | a broad term used to describe when one piece of software relies on another
+design pattern | a general repeatable solution to a commonly occurring problem in software design
+devops | a set of practices that combines software development and IT operations to shorten the systems development life cycle
+distributed system | a system whose components are located on different networked computers
+dns | domain name system; a hierarchical and decentralized naming system for computers and services
+docker | a set of platform as a service products that use OS-level virtualization to deliver software in packages
+domain | a sphere of knowledge identified by a name, typically a network domain on the internet
+encapsulation | the bundling of data with the methods that operate on that data, or restricting direct access
+endianness | the order or sequence of bytes of a word of digital data in computer memory
+exception | an event that occurs during the execution of a program that disrupts the normal flow of instructions
+firewall | a network security system that monitors and controls incoming and outgoing network traffic
+firmware | a specific class of computer software that provides low-level control for a device's specific hardware
+framework | a platform for developing software applications providing a foundation on which software developers can build
+frontend | the client-side part of a software application that users interact with directly
+full stack | a developer who can work on both the front end and back end of a website or application
+garbage collection | a form of automatic memory management attempting to reclaim memory occupied by objects no longer in use
+git | a distributed version control system for tracking changes in source code during software development
+graph | a non-linear data structure consisting of nodes and edges
+hash | a function that converts an input of letters and numbers into an encrypted output of a fixed length
+heap | a specialized tree-based data structure that satisfies the heap property
+hexadecimal | a positional numeral system with a radix of 16 using sixteen distinct symbols
+http | hypertext transfer protocol; the foundation of data communication for the World Wide Web
+https | an extension of HTTP for secure communication over a computer network
+inheritance | the mechanism of basing an object or class upon another object or class
+interface | a shared boundary across which two or more separate components exchange information
+interpreter | a computer program that directly executes instructions written in a programming language
+ip address | a numerical label assigned to each device connected to a computer network
+iteration | the repetition of a process in order to generate a sequence of outcomes
+json | javascript object notation; a lightweight data-interchange format that is easy for humans to read and write
+kernel | the core component of an operating system with complete control over everything in the system
+latency | the delay before a transfer of data begins following an instruction for its transfer
+library | a collection of precompiled routines that a program can use
+linked list | a linear collection of data elements whose order is not given by their physical placement in memory
+load balancer | a device that distributes network or application traffic across a number of servers
+localhost | the standard hostname that refers to the current computer used to access its own network services
+loop | a sequence of instructions that is continually repeated until a certain condition is reached
+machine code | a computer program written in machine language instructions that can be executed directly by a CPU
+memory | the faculty by which data or programs are stored and retrieved in a computer
+microservice | an architectural style that structures an application as a collection of loosely coupled services
+middleware | software that lies between an operating system and the applications running on it
+mutex | a mutual exclusion object that prevents multiple threads from accessing shared resources simultaneously
+namespace | a declarative region that provides a scope to the identifiers inside it
+network | a group of two or more computer systems linked together
+node | a basic unit of a data structure such as a linked list or tree
+object | an instance of a class in object-oriented programming
+object oriented | a programming paradigm based on the concept of objects containing data and code
+operating system | system software that manages computer hardware, software resources, and provides common services
+packet | a formatted unit of data carried by a packet-switched network
+parallel computing | a type of computation in which many calculations are carried out simultaneously
+patch | a piece of software designed to update a computer program or its supporting data
+pipeline | a set of data processing elements connected in series where the output of one element is the input of the next
+pointer | a programming language object that stores a memory address
+polymorphism | the provision of a single interface to entities of different types
+port | a virtual point where network connections start and end
+process | an instance of a computer program that is being executed
+protocol | a set of rules governing the exchange or transmission of data between devices
+queue | a collection of entities that are maintained in a sequence and can be modified by adding entities at one end
+ram | random access memory; a form of computer memory that can be read and changed in any order
+recursion | a method where the solution to a problem depends on solutions to smaller instances of the same problem
+refactoring | the process of restructuring existing computer code without changing its external behavior
+regex | regular expression; a sequence of characters that specifies a search pattern in text
+repository | a central location in which data is stored and managed
+rest | representational state transfer; an architectural style for designing networked applications
+rom | read-only memory; a type of non-volatile memory used in computers
+routing | the process of selecting a path for traffic in a network or between multiple networks
+runtime | the period during which a program is executing
+sandbox | a testing environment that isolates untested code changes and outright experimentation from the production environment
+scheduler | a system software responsible for handling process scheduling in an operating system
+sdk | software development kit; a collection of software development tools in one installable package
+serialization | the process of translating data structures or object state into a format that can be stored or transmitted
+server | a computer or computer program that manages access to a centralized resource or service
+session | a temporary and interactive information interchange between two or more communicating devices
+socket | one endpoint of a two-way communication link between two programs running on the network
+software | the programs and other operating information used by a computer
+source code | any collection of code written using a human-readable programming language
+sql | structured query language; a domain-specific language used in programming for managing data
+ssh | secure shell; a cryptographic network protocol for operating network services securely over an unsecured network
+ssl | secure sockets layer; a standard security technology for establishing an encrypted link between a server and a client
+stack | an abstract data type that serves as a collection of elements with two principal operations
+subnet | a logical subdivision of an IP network
+tcp | transmission control protocol; a standard that defines how to establish and maintain a network conversation
+thread | the smallest sequence of programmed instructions that can be managed independently by a scheduler
+tls | transport layer security; a cryptographic protocol designed to provide communications security over a computer network
+token | a single element of a programming language
+tree | a widely used abstract data type that simulates a hierarchical tree structure
+udp | user datagram protocol; a communications protocol for time-sensitive transmissions
+unicode | an information technology standard for the consistent encoding of text
+unit test | a level of software testing where individual units or components of a software are tested
+url | uniform resource locator; a reference to a web resource that specifies its location on a computer network
+variable | a storage location paired with an associated symbolic name containing some known or unknown quantity
+virtual machine | an emulation of a computer system providing the functionality of a physical computer
+vlan | virtual local area network; any broadcast domain that is partitioned and isolated in a computer network
+vpn | virtual private network; extends a private network across a public network
+webhook | an HTTP-based callback function that allows lightweight, event-driven communication between two APIs
+websocket | a computer communications protocol providing full-duplex communication channels over a single TCP connection
+xml | extensible markup language; a markup language that defines a set of rules for encoding documents

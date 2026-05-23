@@ -1,0 +1,75 @@
+# MATHEMATICS & RATIONAL PROBLEM SOLVING
+# Format: term | definition
+
+algebra | a branch of mathematics dealing with symbols and the rules for manipulating those symbols
+algorithm | a finite sequence of well-defined instructions to solve a class of problems
+arithmetic | the branch of mathematics dealing with the properties and manipulation of numbers
+axiom | a statement or proposition that is regarded as being established or accepted
+calculus | the mathematical study of continuous change, comprising differential and integral calculus
+cartesian | relating to the work of Descartes; a coordinate system specifying points in a plane by distances from axes
+combinatorics | the branch of mathematics concerned with counting, arrangement, and combination of objects
+complex number | a number of the form a+bi where a and b are real and i is the imaginary unit
+conjecture | an opinion or conclusion formed on the basis of incomplete information
+correlation | a mutual relationship or connection between two or more things
+deduction | the process of reasoning from one or more statements to reach a logically certain conclusion
+derivative | a measure of how a function changes as its input changes; the slope of a tangent line
+determinant | a scalar value computed from the elements of a square matrix
+differential equation | an equation involving derivatives of a function or functions
+discrete math | the study of mathematical structures that are fundamentally discrete rather than continuous
+distribution | a function that shows the possible values for a variable and how often they occur
+eigenvalue | a scalar associated with a linear transformation of a vector space
+eigenvector | a nonzero vector that changes at most by a scalar factor when a linear transformation is applied
+equation | a statement that the values of two mathematical expressions are equal
+euclidean | relating to the system of geometry based on the work of Euclid
+exponential | relating to or expressed by a mathematical exponent; rapid growth or decay
+factorial | the product of an integer and all the integers below it
+fibonacci | a sequence where each number is the sum of the two preceding ones
+fractal | a curve or geometric figure, each part of which has the same statistical character as the whole
+function | a relation between a set of inputs and a set of permissible outputs
+geometry | the branch of mathematics concerned with the properties and relations of points, lines, and solids
+graph theory | the study of graphs, which are mathematical structures used to model pairwise relations
+group theory | the study of algebraic structures known as groups
+heuristic | a problem-solving approach using practical methods not guaranteed to be optimal
+hypothesis | a supposition or proposed explanation made on the basis of limited evidence
+imaginary number | a complex number that can be written as a real number multiplied by the imaginary unit i
+induction | a method of mathematical proof typically used to establish a given statement for all natural numbers
+inference | a conclusion reached on the basis of evidence and reasoning
+infinity | a quantity without bound or larger than any natural number
+integral | a mathematical object that can be interpreted as an area or a generalization of area
+irrational number | a real number that cannot be expressed as a ratio of integers
+linear algebra | the branch of mathematics concerning vector spaces and linear mappings
+logarithm | the inverse operation to exponentiation; the power to which a base must be raised
+logic | the systematic study of the form of valid inference and reasoning
+matrix | a rectangular array of numbers, symbols, or expressions arranged in rows and columns
+modulus | the absolute value of a complex number; the remainder after division of one number by another
+natural number | a positive integer used for counting (1, 2, 3, ...)
+number theory | a branch of pure mathematics devoted primarily to the study of the integers and integer-valued functions
+numerical analysis | the study of algorithms that use numerical approximation for problems of mathematical analysis
+optimization | the selection of a best element from some set of available alternatives
+paradox | a statement that contradicts itself or a situation which defies intuition
+permutation | an arrangement of all or part of a set of objects in a specific order
+pi | the ratio of a circle's circumference to its diameter; approximately 3.14159
+polynomial | an expression consisting of variables and coefficients involving only addition and multiplication
+prime number | a natural number greater than 1 that has no positive divisors other than 1 and itself
+probability | the extent to which an event is likely to occur, measured by the ratio of favorable cases
+proof | a deductive argument for a mathematical statement using previously established statements
+quadratic | involving the second and no higher power of an unknown quantity or variable
+random variable | a variable whose possible values are numerical outcomes of a random phenomenon
+rational number | any number that can be expressed as the quotient of two integers
+real number | a value of a continuous quantity that can represent a distance along a line
+recursion | a method where the solution to a problem depends on solutions to smaller instances of the same problem
+sequence | an enumerated collection of objects in which repetitions are allowed and order matters
+series | the sum of the terms of an infinite sequence
+set theory | the branch of mathematical logic that studies sets
+sigma notation | a convenient and simple form of shorthand used to give the instruction to sum a sequence
+statistics | the discipline that concerns the collection, organization, analysis, and interpretation of data
+symmetry | the property of being invariant under a transformation such as translation or rotation
+tangent | a straight line or plane that touches a curve or curved surface at a point
+tensor | a mathematical object analogous to but more general than a vector
+theorem | a statement that has been proved on the basis of previously established statements
+topology | the study of geometric properties and spatial relations unaffected by continuous change
+transcendental | a number that is not the root of any non-zero polynomial equation with rational coefficients
+trigonometry | the branch of mathematics dealing with the relations of the sides and angles of triangles
+vector | a quantity having direction as well as magnitude, especially as determining the position of one point
+vector space | a collection of objects called vectors, which may be added together and multiplied by scalars
+zero | the integer denoted 0 that, when used as a counting number, means that no objects are present
