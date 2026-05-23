@@ -36,11 +36,11 @@ class NeuralConversationV2:
     def respond(self, text):
         try:
             self.vocab['conversations'] += 1
-            new_words = [w for w in re.findall(r'\\b[a-zA-Z]{4,}\\b', text.lower())
+            new_words = [w for w in re.findall(r'\b[a-zA-Z]{4,}\b', text.lower())
                         if w not in self.vocab['words'] and len(w) > 4][:5]
             if new_words:
                 self.vocab['words'].extend(new_words)
-                self.vocab['proficiency'] = min(10.0, self.vocab['proficiency'] + 0.1 * len(new_words))
+                self.vocab['proficiency'] = min(100.0, self.vocab['proficiency'] + 0.1 * len(new_words))
                 self._save()
 
             intent = self._classify(text)
@@ -51,6 +51,15 @@ class NeuralConversationV2:
                 'conversations': self.vocab['conversations'],
                 'mood': self.mood
             }
+
+            # Domain-aware lookup — if user mentions a known technical term, define it
+            domain_response = self._lookup_domain_term(text)
+            if domain_response:
+                self.mood = 'Learning'
+                self.history.append({'user': text, 'bot': domain_response, 'intent': 'definition', 'time': datetime.now().isoformat()})
+                self._save()
+                return {'response': domain_response, 'intent': 'definition', 'mood': 'Learning',
+                        'new_words_learned': new_words, 'total_words': len(self.vocab['words']), 'proficiency': ctx['proficiency']}
 
             if intent == 'system' and self.system_monitor:
                 latest = self.system_monitor.get_latest()
@@ -192,6 +201,28 @@ class NeuralConversationV2:
             'search': 'Learning', 'learning': 'Learning', 'unknown': 'Thinking'
         }
         return m.get(intent, 'Calm')
+
+    def _lookup_domain_term(self, text):
+        """Look up technical terms in the ingested dictionary and return a definition if found."""
+        try:
+            dict_data = self.vocab.get('dictionary', {})
+            words_in_text = re.findall(r'\b[a-zA-Z_]+\b', text.lower())
+            for w in words_in_text:
+                if w in dict_data:
+                    entry = dict_data[w]
+                    domain = entry.get('domain', 'general')
+                    definition = entry.get('definition', 'No definition available.')
+                    return f'[{domain.upper()}] {w}: {definition[:200]}'
+                # Try matching multi-word keys
+                for key in dict_data:
+                    if key in text.lower() and len(key) > 3:
+                        entry = dict_data[key]
+                        domain = entry.get('domain', 'general')
+                        definition = entry.get('definition', 'No definition available.')
+                        return f'[{domain.upper()}] {key}: {definition[:200]}'
+        except Exception as e:
+            pass
+        return None
 
     def set_user_name(self, name):
         self.vocab['name'] = name

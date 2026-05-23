@@ -1,51 +1,50 @@
-import sys
+import sys, os, re
 
 with open('neural_window.py', 'r') as f:
     nw = f.read()
 
-# Fix 1: Larger Kaomoji minimum sizes
-nw = nw.replace(
-    "        self.kaomoji.setMinimumWidth(300)\n        self.kaomoji.setMinimumHeight(250)",
-    "        self.kaomoji.setMinimumWidth(450)\n        self.kaomoji.setMinimumHeight(380)"
-)
+# Fix stats command to show domain breakdown
+old_stats = """        elif command == 'stats':
+            stats = self.conversation.get_stats()"""
 
-# Fix 2: Larger kaomoji container frame
-nw = nw.replace(
-    "        kaomoji_container.setStyleSheet('QFrame { border: 1px solid #330000; border-radius: 6px; background: #08080c; }')",
-    "        kaomoji_container.setStyleSheet('QFrame { border: 1px solid #330000; border-radius: 8px; background: #08080c; }')"
-)
+new_stats = """        elif command == 'stats':
+            stats = self.conversation.get_stats()
+            self._cli_log(f'[STATS] Proficiency: {stats.get(\"proficiency\",0)}% | Words: {stats.get(\"words_learned\",0)} | Chats: {stats.get(\"conversations\",0)} | Mood: {stats.get(\"mood\",\"?\")}', 'green')
+            try:
+                import json
+                with open(os.path.expanduser('~/neural-chan/data/vocabulary_v2.json')) as f:
+                    v = json.load(f)
+                for d, info in v.get('domains', {}).items():
+                    self._cli_log(f'[DOMAIN] {d}: {info.get(\"count\",0)} terms', 'purple')
+                self._cli_log(f'[BRAIN] Total dictionary entries: {len(v.get(\"dictionary\", {}))}', 'cyan')
+            except Exception as e:
+                self._cli_log(f'[WARN] Could not load domain stats: {e}', 'yellow')
+            return"""
 
-# Fix 3: Safe _on_speak handler (wrap in try/except to prevent signal crash chain)
-old_on_speak = """    def _on_speak(self, text):
-        self._cli_log(f'[SPEAK] Neural Chan says: {text}', 'purple')
-        self.kaomoji.set_mood('Happy')"""
+nw = nw.replace(old_stats, new_stats)
 
-new_on_speak = """    def _on_speak(self, text):
-        try:
-            self._cli_log(f'[SPEAK] Neural Chan says: {text}', 'purple')
-            self.kaomoji.set_mood('Happy')
-        except Exception as e:
-            print(f'[_ON_SPEAK ERROR] {e}', file=sys.stderr)"""
-
-nw = nw.replace(old_on_speak, new_on_speak)
-
-# Fix 4: Safe _on_detection handler
-old_on_det = """    def _on_detection(self, det):
-        self.canvas.pulse_node('detector')
-        self.kaomoji.set_mood('Alert')
-        self._cli_log(f'[ALERT] {det["threat"]} | {det["severity"]}', 'red')"""
-
-new_on_det = """    def _on_detection(self, det):
-        try:
-            self.canvas.pulse_node('detector')
-            self.kaomoji.set_mood('Alert')
-            self._cli_log(f'[ALERT] {det["threat"]} | {det["severity"]}', 'red')
-        except Exception as e:
-            print(f'[_ON_DETECTION ERROR] {e}', file=sys.stderr)"""
-
-nw = nw.replace(old_on_det, new_on_det)
+# Ensure export command exists
+if "command == 'export'" not in nw:
+    # Add after the new stats block
+    old_after_stats = """            return"""
+    new_after_stats = """            return
+        elif command == 'export' or command == 'memory':
+            try:
+                from memory_exporter import MemoryExporter
+                exporter = MemoryExporter()
+                files = exporter.export_all()
+                for f in files:
+                    self._cli_log(f'[MEMORY] {f}', 'green')
+                self._cli_log(f'[MEMORY] {len(files)} files saved to ~/neural-chan/memory/', 'green')
+            except Exception as e:
+                self._cli_log(f'[MEMORY] Export error: {e}', 'red')
+            return"""
+    # Only replace the first occurrence after stats
+    parts = nw.split(old_after_stats, 1)
+    if len(parts) == 2:
+        nw = parts[0] + new_after_stats + parts[1]
 
 with open('neural_window.py', 'w') as f:
     f.write(nw)
 
-print('[✓] neural_window.py patched — larger container + safe handlers')
+print('[✓] neural_window.py patched — domain stats + export command')

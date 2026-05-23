@@ -1,79 +1,5 @@
 [
   {
-    "time": "2026-05-23T14:48:43.819461",
-    "user": "learn your name is synchan",
-    "intent": "greeting",
-    "new_words": [
-      "synchan"
-    ]
-  },
-  {
-    "time": "2026-05-23T14:48:49.422274",
-    "user": "hi",
-    "intent": "greeting",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T14:48:55.365835",
-    "user": "who are you",
-    "intent": "greeting",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T14:49:24.749473",
-    "user": "study a dictonary",
-    "intent": "learning",
-    "new_words": [
-      "study",
-      "dictonary"
-    ]
-  },
-  {
-    "time": "2026-05-23T14:49:40.537017",
-    "user": "are you?",
-    "intent": "greeting",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T14:49:47.363068",
-    "user": "hey what?",
-    "intent": "greeting",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T14:49:54.094319",
-    "user": "hi to you also",
-    "intent": "greeting",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T14:50:01.348426",
-    "user": "say your name",
-    "intent": "speak",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T15:14:12.470010",
-    "user": "hey",
-    "intent": "greeting",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T15:14:19.673450",
-    "user": "how are you",
-    "intent": "status",
-    "new_words": []
-  },
-  {
-    "time": "2026-05-23T15:14:31.822043",
-    "user": "i meann emotionally",
-    "intent": "unknown",
-    "new_words": [
-      "meann",
-      "emotionally"
-    ]
-  },
-  {
     "time": "2026-05-23T15:14:40.780306",
     "user": "how do you feel",
     "intent": "status",
@@ -136,5 +62,79 @@
     "new_words": [
       "having"
     ]
+  },
+  {
+    "time": "2026-05-23T17:11:50.280506",
+    "user": "yo",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:11:56.452797",
+    "user": "how you doing",
+    "intent": "greeting",
+    "new_words": [
+      "doing"
+    ]
+  },
+  {
+    "time": "2026-05-23T17:12:07.489644",
+    "user": "whatsup",
+    "intent": "greeting",
+    "new_words": [
+      "whatsup"
+    ]
+  },
+  {
+    "time": "2026-05-23T17:12:16.424138",
+    "user": "whats 2 plus 2",
+    "intent": "unknown",
+    "new_words": [
+      "whats"
+    ]
+  },
+  {
+    "time": "2026-05-23T17:16:57.595905",
+    "user": "sup",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:17:04.586405",
+    "user": "how are you",
+    "intent": "status",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:17:09.903052",
+    "user": "thats good",
+    "intent": "resume",
+    "new_words": [
+      "thats"
+    ]
+  },
+  {
+    "time": "2026-05-23T17:20:47.010618",
+    "user": "whats up bro",
+    "intent": "unknown",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:20:53.432508",
+    "user": "sup",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:21:00.922709",
+    "user": "how are you",
+    "intent": "status",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T17:21:06.686553",
+    "user": "thats good",
+    "intent": "resume",
+    "new_words": []
   }
 ]

@@ -1,9 +1,9 @@
 # Neural Chan — Vocabulary & Brain State
 
-**Exported:** 2026-05-23 17:05:32  
-**Conversations:** 20  
-**Speech Proficiency:** 84.3%  
-**Words Learned:** 1919  
+**Exported:** 2026-05-23 17:32:27  
+**Conversations:** 25  
+**Speech Proficiency:** 84.4%  
+**Words Learned:** 1920  
 **User Name:** User
 
 ---
@@ -1938,6 +1938,7 @@
 1917. `sql query`
 1918. `swift`
 1919. `typescript`
+1920. `thank`
 
 
 ---

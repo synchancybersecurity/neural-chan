@@ -1,7 +1,7 @@
 # Neural Chan — Conversation History
 
-**Exported:** 2026-05-23 17:05:32  
-**Total Exchanges:** 17
+**Exported:** 2026-05-23 17:32:27  
+**Total Exchanges:** 22
 
 ---
 
@@ -122,5 +122,40 @@
 - **Intent:** `greeting`
 - **User:** https://d1wqtxts1xzle7.cloudfront.net/52523721/NTCs_Super-Mini_English_Dictionary-libre.pdf?1491546712=&response-content-disposition=attachment%3B+filename%3DNTCs_Super_Mini_English_Dictionary.pdf&Expires=1779557633&Signature=OeYoeNHGZklnL5xwQBsxP7b5Z6L5146UxA~t45FaWIUwYxzMV9wojTF-Tx9seVyNpIcxBCOkm~xTO6Lj8uUNVkt7hniAHMzOdpTMs6ghAeC7C8Akr-ard4aVwnH~Qo6s9v0ob6AaW6hTEaR~mrGy4hdePXnGAu09HXhG6RPIRQdqESElMbqd2j7C-2rfo2VGCxtYm4wI2DK6OHGBwPsnfzOfXRq1sem-d~oWlePQsP0tS1wai8CnMn-TROgSMi6aPLxKf2N7e3YjI4WR69PfakpTcGIS5NoBlfJ78a-nurY7u0QnA~7hjN93dfWdEgjMhEvjW-FKFcQIXi5v2g2uZw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 - **Neural Chan:** Greetings! I have learned 0 words across 20 conversations.
+
+---
+### Exchange 18
+- **Time:** `2026-05-23T17:26:04.281332`
+- **Intent:** `greeting`
+- **User:** hey
+- **Neural Chan:** Hello User! Neural Chan is online with 84.3% proficiency.
+
+---
+### Exchange 19
+- **Time:** `2026-05-23T17:28:20.079607`
+- **Intent:** `definition`
+- **User:** hello
+- **Neural Chan:** [GENERAL] hello: used as a greeting or to begin a telephone conversation
+
+---
+### Exchange 20
+- **Time:** `2026-05-23T17:30:46.945115`
+- **Intent:** `definition`
+- **User:** hello
+- **Neural Chan:** [GENERAL] hello: used as a greeting or to begin a telephone conversation
+
+---
+### Exchange 21
+- **Time:** `2026-05-23T17:30:57.049770`
+- **Intent:** `unknown`
+- **User:** yes it is
+- **Neural Chan:** My brain does not understand that yet. But I learn from every word you type!
+
+---
+### Exchange 22
+- **Time:** `2026-05-23T17:31:05.149325`
+- **Intent:** `gratitude`
+- **User:** thank you
+- **Neural Chan:** Glad to help! Proficiency rising...
 
 ---

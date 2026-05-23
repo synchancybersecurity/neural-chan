@@ -16,7 +16,7 @@ from neural_conversation_v2 import NeuralConversationV2
 from memory_exporter import MemoryExporter
 from system_monitor import SystemMonitor
 from web_learner import WebLearner
-from neural_conversation import NeuralConversation
+from neural_conversation_v2 import NeuralConversationV2
 from kaomoji_widget import KaomojiWidget
 
 class NeuralWindow(QMainWindow):
@@ -60,7 +60,7 @@ class NeuralWindow(QMainWindow):
             system_monitor=self.system_monitor,
             web_learner=self.web_learner
         )
-        self.conversation = NeuralConversation()
+        self.conversation = NeuralConversationV2(system_monitor=self.system_monitor, web_learner=self.web_learner)
         self._setup_menubar()
         self._setup_central()
         self._setup_dock_left()
@@ -503,8 +503,8 @@ class NeuralWindow(QMainWindow):
             words_str = ', '.join(result['new_words_learned'])
             self._cli_log(f'[LEARN] New words: {words_str} (+{len(result["new_words_learned"])} | Total: {result["total_words"]})', 'purple')
         
-        if self.conversation.vocab['total_conversations'] % 5 == 0:
-            self._cli_log(f'[PROFICIENCY] {result["proficiency"]}% | Chats: {self.conversation.vocab["total_conversations"]}', 'green')
+        if self.conversation.vocab['conversations'] % 5 == 0:
+            self._cli_log(f'[PROFICIENCY] {result["proficiency"]}% | Chats: {self.conversation.vocab["conversations"]}', 'green')
         
         intent = result['intent']
         
@@ -546,6 +546,17 @@ class NeuralWindow(QMainWindow):
             self._cli_log(f'[NEURAL] {msg}', 'green')
         elif command == 'stats':
             stats = self.conversation.get_stats()
+            self._cli_log(f'[STATS] Proficiency: {stats.get("proficiency",0)}% | Words: {stats.get("words_learned",0)} | Chats: {stats.get("conversations",0)} | Mood: {stats.get("mood","?")}', 'green')
+            try:
+                import json
+                with open(os.path.expanduser('~/neural-chan/data/vocabulary_v2.json')) as f:
+                    v = json.load(f)
+                for d, info in v.get('domains', {}).items():
+                    self._cli_log(f'[DOMAIN] {d}: {info.get("count",0)} terms', 'purple')
+                self._cli_log(f'[BRAIN] Total dictionary entries: {len(v.get("dictionary", {}))}', 'cyan')
+            except Exception as e:
+                self._cli_log(f'[WARN] Could not load domain stats: {e}', 'yellow')
+            return
             self._cli_log(f'[STATS] Proficiency: {stats.get("proficiency",0)}% | Words: {stats.get("words_learned",0)} | Chats: {stats.get("conversations",0)} | Facts: {stats.get("facts",0)} | Mood: {stats.get("mood","?")}', 'green')
         elif command == 'export' or command == 'memory':
             if self.memory_exporter:

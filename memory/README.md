@@ -1,6 +1,6 @@
 # Neural Chan — Memory Index
 
-**Exported:** 2026-05-23 17:05:32  
+**Exported:** 2026-05-23 17:32:27  
 **Memory Directory:** `~/neural-chan/memory/`
 
 ---
