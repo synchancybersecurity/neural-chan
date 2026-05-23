@@ -1,0 +1,143 @@
+[
+  {
+    "time": "2026-05-23T14:47:07.173657",
+    "user": "how are you",
+    "intent": "status",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T14:47:39.272812",
+    "user": "ssay im nuero chan",
+    "intent": "speak",
+    "new_words": [
+      "nuero"
+    ]
+  },
+  {
+    "time": "2026-05-23T14:48:04.178312",
+    "user": "learn new words",
+    "intent": "learning",
+    "new_words": [
+      "learn",
+      "words"
+    ]
+  },
+  {
+    "time": "2026-05-23T14:48:43.819461",
+    "user": "learn your name is synchan",
+    "intent": "greeting",
+    "new_words": [
+      "synchan"
+    ]
+  },
+  {
+    "time": "2026-05-23T14:48:49.422274",
+    "user": "hi",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T14:48:55.365835",
+    "user": "who are you",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T14:49:24.749473",
+    "user": "study a dictonary",
+    "intent": "learning",
+    "new_words": [
+      "study",
+      "dictonary"
+    ]
+  },
+  {
+    "time": "2026-05-23T14:49:40.537017",
+    "user": "are you?",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T14:49:47.363068",
+    "user": "hey what?",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T14:49:54.094319",
+    "user": "hi to you also",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T14:50:01.348426",
+    "user": "say your name",
+    "intent": "speak",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T15:14:12.470010",
+    "user": "hey",
+    "intent": "greeting",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T15:14:19.673450",
+    "user": "how are you",
+    "intent": "status",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T15:14:31.822043",
+    "user": "i meann emotionally",
+    "intent": "unknown",
+    "new_words": [
+      "meann",
+      "emotionally"
+    ]
+  },
+  {
+    "time": "2026-05-23T15:14:40.780306",
+    "user": "how do you feel",
+    "intent": "status",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T15:14:51.144856",
+    "user": "is that the same as  good",
+    "intent": "resume",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T15:15:13.713353",
+    "user": "searcg google learn  english in full",
+    "intent": "resume",
+    "new_words": [
+      "searcg",
+      "google",
+      "english"
+    ]
+  },
+  {
+    "time": "2026-05-23T15:15:49.587569",
+    "user": "search web to store english dictonary to memory",
+    "intent": "memory",
+    "new_words": [
+      "search",
+      "store",
+      "memory"
+    ]
+  },
+  {
+    "time": "2026-05-23T15:16:04.270436",
+    "user": "web search",
+    "intent": "unknown",
+    "new_words": []
+  },
+  {
+    "time": "2026-05-23T15:16:11.418212",
+    "user": "google english",
+    "intent": "resume",
+    "new_words": []
+  }
+]
