@@ -1,0 +1,44 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>NC</title><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#050505;color:#ccc;font-family:'Courier New',monospace;height:100vh;display:flex;flex-direction:column;font-size:13px}
+#h{padding:6px 12px;background:#0a0a0a;border-bottom:1px solid #222;font-size:11px;color:#0f0;font-weight:bold}
+#m{margin-left:auto;float:right;color:#555}
+#m span{color:#0ff}
+main{flex:1;display:flex;overflow:hidden}
+#t{flex:1;display:flex;flex-direction:column;padding:10px 14px}
+#s{flex:1;overflow-y:auto;font-size:12px;line-height:1.6}
+#s div{margin-bottom:4px}
+#s .u{color:#0f0}
+#s .u::before{content:"user@nc:~$ ";font-weight:bold}
+#s .b{color:#ccc}
+#s .b::before{content:"[NC] ";color:#0ff;font-weight:bold}
+#s .x{color:#666;font-style:italic;font-size:11px}
+#f{width:180px;background:#0a0a0a;border-left:1px solid #222;display:flex;flex-direction:column;align-items:center;padding-top:20px}
+#k{font-size:60px;color:#fff}
+#e{margin-top:10px;font-size:10px;color:#555;text-align:center}
+#e .v{color:#0f0;font-weight:bold}
+#i{padding:8px 14px;background:#0a0a0a;border-top:1px solid #222;display:flex;gap:6px}
+#p{color:#0f0;font-weight:bold;font-size:12px}
+#in{flex:1;background:transparent;border:none;color:#0f0;font-family:inherit;font-size:13px;outline:none}
+::-webkit-scrollbar{width:4px}
+::-webkit-scrollbar-thumb{background:#222;border-radius:2px}
+@media(max-width:600px){#f{display:none}}
+</style></head><body>
+<div id="h">◕ NC v2.1 <span id="m">V:<span id="v">0</span> C:<span id="c">0</span></span></div>
+<main><div id="t"><div id="s"></div></div>
+<div id="f"><div id="k">◕‿◕</div><div id="e"><span id="em">NEUTRAL</span><br><span class="v" id="ev">0.00</span></div></div></main>
+<div id="i"><span id="p">user@nc:~$</span><input id="in" placeholder="speak..." autocomplete="off" autofocus></div>
+<script>
+const B={V:new Map,E:0,
+n(t){return t.toLowerCase().replace(/[^a-z0-9\s\'-]/g,' ').replace(/\s+/g,' ').trim()},
+t(t){return this.n(t).split(/\s+/).filter(t=>t.length>0)},
+s(w){const x=w.toLowerCase();if(x.endsWith('ies')&&x.length>4)return x.slice(0,-3)+'y';if(x.endsWith('s')&&!x.endsWith('ss')&&x.length>3)return x.slice(0,-1);if(x.endsWith('ed')&&x.length>3)return x.slice(0,-2);if(x.endsWith('ing')&&x.length>4)return x.slice(0,-3);if(x.endsWith('ly')&&x.length>4)return x.slice(0,-2);return x},
+a(t){const P=new Set('good great excellent amazing awesome fantastic wonderful love like enjoy happy glad pleased satisfied perfect best better nice beautiful cool fun funny smart clever brilliant impressive strong easy helpful useful success win winning correct right true valid working green ready up'.split(' '));const N=new Set('bad terrible awful horrible hate dislike annoying stupid dumb idiot sad angry mad upset disappointed worst worse wrong false invalid broken fail failure failing difficult hard useless pointless waste down error bug crash problem issue trouble concern worry afraid scared no not never nothing nobody none neither nowhere hardly barely rarely'.split(' '));let S=0,neg=false;for(let i=0;i<t.length;i++){const x=t[i].toLowerCase(),st=this.s(x);if(x==='not'||x==='no'||x==='never'){neg=true;continue}if(['.','!','?'].some(p=>x.includes(p)))neg=false;let w=0;if(P.has(x)||P.has(st))w=1;else if(N.has(x)||N.has(st))w=-1;if(neg)w*=-1;S+=w}return Math.max(-1,Math.min(1,S/Math.max(1,t.length*0.3)))},
+l(tx,se){for(const w of this.t(tx)){const k=this.s(w);if(k.length<3)continue;if(!this.V.has(k))this.V.set(k,{f:0,se:0});const e=this.V.get(k);e.f++;e.se=(e.se*(e.f-1)+se)/e.f}},
+r(tx){const x=tx.toLowerCase();const I={GREETING:/^(hi|hello|hey|greetings|howdy|yo|sup)/i,FAREWELL:/(bye|goodbye|see.ya|later|peace)/i,QUESTION:/\b(what|who|where|when|why|how|which)\b|^is\b|^are\b|^can\b|^do\b/i,COMMAND:/^please|^make|^do\b|^set\b|^show\b|^tell\b|^run\b/i,STATUS:/status|state|condition|how.are.you|how.do.you.feel/i,CONFIRM:/yes|yeah|yep|sure|ok|okay|correct|right|exactly/i,DENY:/no|nope|nah|negative|wrong|incorrect|false|not|never/i,EMOTION:/happy|sad|angry|excited|bored|tired|scared|love|hate|like|feel/i,LEARN:/learn|study|remember|know|understand|teach|explain|define/i,CRITICISM:/bad|wrong|broken|bug|error|problem|issue|fix|stupid|dumb|terrible|awful|suck/i,PRAISE:/good|great|awesome|excellent|amazing|love|perfect|best|brilliant|smart|cool|nice/i,META:/who.are.you|what.are.you|your.name|how.do.you.work|are.you.real|are.you.ai|artificial|intelligence|bot|neural|chan/i};for(const[k,p]of Object.entries(I)){if(p.test(x))return k}return'UNKNOWN'},
+g(i,se){const T={GREETING:'Neural Chan online. Systems nominal. How can I assist?',FAREWELL:'Acknowledged. I will maintain watch until you return.',QUESTION:'Analyzing your query against my knowledge graph...',COMMAND:'Command accepted. Executing requested operation.',STATUS:`All systems green. Emotional register: ${this.E>0.2?'positive':this.E<-0.2?'negative':'neutral'}.`,CONFIRM:'Affirmative. I will proceed with that assumption.',DENY:'Negative. Let me recalibrate my interpretation.',EMOTION:`I detect emotional content. My circuits are ${se>0?'resonating positively':se<0?'registering distress':'neutral but attentive'}.`,LEARN:'Learning mode engaged. I will integrate this into my knowledge base.',CRITICISM:'Criticism received. Analyzing failure modes for improvement.',PRAISE:'Thank you. Positive reinforcement strengthens my learning gradient.',META:'I am Neural Chan — a cognitive architecture built for learning and discourse.',UNKNOWN:'I am processing that input. My confidence is moderate — could you clarify?'};return T[i]||T.UNKNOWN},
+P(tx){const t=this.t(tx);const se=this.a(t);const i=this.r(tx);this.l(tx,se);this.E=this.E*0.8+se*0.2;return{response:this.g(i,se),intent:i,sentiment:se}}}
+const U={init(){this.a('x','NC v2.1 Cognitive Core initialized.');this.a('x','Type "hello" to begin.');document.getElementById('in').addEventListener('keypress',e=>{if(e.key==='Enter')sm()});document.getElementById('in').focus()},a(c,t){const s=document.getElementById('s');const d=document.createElement('div');d.className=c;d.textContent=t;s.appendChild(d);s.scrollTop=s.scrollHeight},uf(){const e=B.E;document.getElementById('k').textContent=e>0.2?'◕‿◕':e<-0.2?'◕︿◕':'◕_◕';document.getElementById('em').textContent=e>0.2?'HAPPY':e<-0.2?'SAD':'NEUTRAL';document.getElementById('ev').textContent=e.toFixed(2);document.getElementById('v').textContent=B.V.size;document.getElementById('c').textContent=Array.from(B.V.values()).reduce((a,b)=>a+b.f,0)},us(r){document.getElementById('c').textContent=Array.from(B.V.values()).reduce((a,b)=>a+b.f,0)}}
+function sm(){const i=document.getElementById('in');const t=i.value.trim();if(!t)return;i.value='';U.a('u',t);setTimeout(()=>{const r=B.P(t);U.a('b',r.response);U.uf();U.us(r)},300)}
+window.addEventListener('DOMContentLoaded',()=>U.init());
+</script></body></html>

@@ -1,8 +1,8 @@
 # Neural Chan — Vocabulary & Brain State
 
-**Exported:** 2026-05-24 03:08:03  
-**Conversations:** 57  
-**Speech Proficiency:** 85.4%  
+**Exported:** 2026-05-25 21:50:11  
+**Conversations:** 85  
+**Speech Proficiency:** 85.3%  
 **Words Learned:** 1930  
 **User Name:** User
 
@@ -1944,11 +1944,11 @@
 1923. `synchan`
 1924. `pluss`
 1925. `teach`
-1926. `meaannshello`
-1927. `greeting`
-1928. `ggaining`
-1929. `retaining`
-1930. `giiving`
+1926. `freen`
+1927. `makes`
+1928. `sense`
+1929. `write`
+1930. `random`
 
 
 ---

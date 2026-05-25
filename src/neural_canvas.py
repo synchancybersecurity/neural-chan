@@ -278,7 +278,7 @@ class NeuralCanvas(QWidget):
                     continue
                 painter.setBrush(color)
                 painter.drawRect(10, legend_y, 8, 8)
-                painter.drawText(22, legend_y + 8, domain.replace('_', ' ').title())
+                painter.drawText(22, int(legend_y) + 8, domain.replace('_', ' ').title())
                 legend_y += 14
             
             painter.end()

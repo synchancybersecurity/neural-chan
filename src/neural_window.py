@@ -11,7 +11,7 @@ from PyQt6.QtGui import QFont, QColor
 
 from neural_canvas import NeuralCanvas
 from kaomoji_widget import KaomojiWidget
-from neural_conversation_v2 import NeuralConversationV2
+from chan_ai_v4 import ChanCognition
 from system_monitor import SystemMonitor
 from web_learner import WebLearner
 from memory_exporter import MemoryExporter
@@ -26,7 +26,7 @@ class NeuralWindow(QMainWindow):
         self.system_monitor = SystemMonitor()
         self.web_learner = WebLearner()
         self.memory_exporter = MemoryExporter()
-        self.conversation = NeuralConversationV2(
+        self.conversation = ChanCognition(
             system_monitor=self.system_monitor,
             web_learner=self.web_learner
         )
@@ -232,7 +232,7 @@ class NeuralWindow(QMainWindow):
         self._cli_log(f'> {text}', 'white')
         
         try:
-            result = self.conversation.respond(text)
+            result = self.conversation.reason(text)
             response = result.get('response', 'No response')
             intent = result.get('intent', 'unknown')
             mood = result.get('mood', 'Calm')
@@ -270,6 +270,24 @@ class NeuralWindow(QMainWindow):
             self._cli_log(f'[ERR] {str(e)}', 'red')
             import traceback
             traceback.print_exc()
+
+
+    def set_brain(self, brain):
+        """Connect external brain data to the conversation engine and canvas."""
+        try:
+            if hasattr(self, 'conversation') and brain:
+                # Merge brain dictionary into conversation vocab
+                if hasattr(brain, 'dictionary'):
+                    self.conversation.vocab['dictionary'].update(brain.dictionary)
+                elif isinstance(brain, dict) and 'dictionary' in brain:
+                    self.conversation.vocab['dictionary'].update(brain['dictionary'])
+                self._cli_log('[BRAIN] External brain data merged into Chan AI', 'cyan')
+            
+            if hasattr(self, 'canvas'):
+                self.canvas.set_data_source(self.conversation)
+                self._cli_log('[BRAIN] Canvas wired to merged brain data', 'cyan')
+        except Exception as e:
+            self._cli_log(f'[BRAIN] Connection error: {e}', 'yellow')
 
     def closeEvent(self, event):
         try:

@@ -11,6 +11,6 @@ if __name__ == '__main__':
     window = NeuralWindow()
     brain = BrainThread(window)
     brain.start()
-    window.set_brain(brain)
+    # v4.0: internal brain
     window.show()
     sys.exit(app.exec())
